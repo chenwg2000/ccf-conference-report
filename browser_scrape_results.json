@@ -1,0 +1,476 @@
+[
+  {
+    "name": "PPoPP",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3710848",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3710848\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "FAST",
+    "year": 2025,
+    "url": "https://www.usenix.org/conference/fast25/technical-sessions",
+    "strategy": "usenix",
+    "raw_length": 16071,
+    "cn_keyword_mentions": 76,
+    "error": null
+  },
+  {
+    "name": "DAC",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.5555/3778334",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.5555/3778334\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "HPCA",
+    "year": 2025,
+    "url": "https://hpca-conf.org/2025/main-program/",
+    "strategy": "generic_list",
+    "raw_length": 60,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "MICRO",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3669940",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3669940\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "SC",
+    "year": 2024,
+    "url": "https://sc24.supercomputing.org/program/papers/",
+    "strategy": "generic_list",
+    "raw_length": 24794,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "ASPLOS",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3669940",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3669940\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "ISCA",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3695053",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3695053\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "USENIX ATC",
+    "year": 2025,
+    "url": "https://www.usenix.org/conference/atc25/technical-sessions",
+    "strategy": "usenix",
+    "raw_length": 41660,
+    "cn_keyword_mentions": 280,
+    "error": null
+  },
+  {
+    "name": "EuroSys",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3689031",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3689031\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "HPDC",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3698038",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3698038\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "SIGCOMM",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3718958",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3718958\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "MobiCom",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3636534",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3636534\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "INFOCOM",
+    "year": 2025,
+    "url": "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference",
+    "strategy": "generic_list",
+    "raw_length": 82969,
+    "cn_keyword_mentions": 1077,
+    "error": null
+  },
+  {
+    "name": "NSDI",
+    "year": 2025,
+    "url": "https://www.usenix.org/conference/nsdi25/technical-sessions",
+    "strategy": "usenix",
+    "raw_length": 33212,
+    "cn_keyword_mentions": 149,
+    "error": null
+  },
+  {
+    "name": "CCS",
+    "year": 2024,
+    "url": "https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html",
+    "strategy": "generic_list",
+    "raw_length": 101216,
+    "cn_keyword_mentions": 651,
+    "error": null
+  },
+  {
+    "name": "EUROCRYPT",
+    "year": 2025,
+    "url": "https://eurocrypt.iacr.org/2025/acceptedpapers.php",
+    "strategy": "generic_list",
+    "raw_length": 22932,
+    "cn_keyword_mentions": 41,
+    "error": null
+  },
+  {
+    "name": "S&P",
+    "year": 2025,
+    "url": "https://sp2025.ieee-security.org/accepted-papers.html",
+    "strategy": "generic_list",
+    "raw_length": 9522,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "CRYPTO",
+    "year": 2024,
+    "url": "https://crypto.iacr.org/2024/acceptedpapers.php",
+    "strategy": "generic_list",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crypto.iacr.org/2024/acceptedpapers.php\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "USENIX Security",
+    "year": 2025,
+    "url": "https://www.usenix.org/conference/usenixsecurity25/technical-sessions",
+    "strategy": "usenix",
+    "raw_length": 161046,
+    "cn_keyword_mentions": 601,
+    "error": null
+  },
+  {
+    "name": "NDSS",
+    "year": 2025,
+    "url": "https://www.ndss-symposium.org/ndss2025/accepted-papers/",
+    "strategy": "generic_list",
+    "raw_length": 75159,
+    "cn_keyword_mentions": 668,
+    "error": null
+  },
+  {
+    "name": "PLDI",
+    "year": 2025,
+    "url": "https://pldi25.sigplan.org/track/pldi-2025-papers",
+    "strategy": "sigplan",
+    "raw_length": 35496,
+    "cn_keyword_mentions": 52,
+    "error": null
+  },
+  {
+    "name": "POPL",
+    "year": 2025,
+    "url": "https://popl25.sigplan.org/track/POPL-2025-popl-research-papers",
+    "strategy": "sigplan",
+    "raw_length": 34901,
+    "cn_keyword_mentions": 29,
+    "error": null
+  },
+  {
+    "name": "FSE",
+    "year": 2025,
+    "url": "https://conf.researchr.org/track/fse-2025/fse-2025-research-papers",
+    "strategy": "researchr",
+    "raw_length": 127671,
+    "cn_keyword_mentions": 938,
+    "error": null
+  },
+  {
+    "name": "SOSP",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3694715",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3694715\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "OOPSLA",
+    "year": 2024,
+    "url": "https://2024.splashcon.org/track/splash-2024-oopsla",
+    "strategy": "researchr",
+    "raw_length": 8870,
+    "cn_keyword_mentions": 18,
+    "error": null
+  },
+  {
+    "name": "ASE",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3691620",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3691620\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "ICSE",
+    "year": 2025,
+    "url": "https://conf.researchr.org/track/icse-2025/icse-2025-research-track",
+    "strategy": "researchr",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://conf.researchr.org/track/icse-2025/icse-2025-research-track\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "ISSTA",
+    "year": 2025,
+    "url": "https://conf.researchr.org/track/issta-2025/issta-2025-papers",
+    "strategy": "researchr",
+    "raw_length": 9364,
+    "cn_keyword_mentions": 117,
+    "error": null
+  },
+  {
+    "name": "OSDI",
+    "year": 2024,
+    "url": "https://www.usenix.org/conference/osdi24/technical-sessions",
+    "strategy": "usenix",
+    "raw_length": 22239,
+    "cn_keyword_mentions": 59,
+    "error": null
+  },
+  {
+    "name": "FM",
+    "year": 2024,
+    "url": "https://www.fm24.polimi.it/?page_id=559",
+    "strategy": "generic_list",
+    "raw_length": 3964,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "SIGMOD",
+    "year": 2025,
+    "url": "https://2025.sigmod.org/sigmod_papers.shtml",
+    "strategy": "generic_list",
+    "raw_length": 69276,
+    "cn_keyword_mentions": 572,
+    "error": null
+  },
+  {
+    "name": "SIGKDD",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3690624",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3690624\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "ICDE",
+    "year": 2025,
+    "url": "https://ieee-icde.org/2025/research-papers/",
+    "strategy": "generic_list",
+    "raw_length": 108168,
+    "cn_keyword_mentions": 1276,
+    "error": null
+  },
+  {
+    "name": "SIGIR",
+    "year": 2025,
+    "url": "https://sigir2025.dei.unipd.it/accepted-papers.html",
+    "strategy": "generic_list",
+    "raw_length": 80504,
+    "cn_keyword_mentions": 10,
+    "error": null
+  },
+  {
+    "name": "VLDB",
+    "year": 2025,
+    "url": "https://vldb.org/2025/?program-schedule",
+    "strategy": "generic_list",
+    "raw_length": 123857,
+    "cn_keyword_mentions": 685,
+    "error": null
+  },
+  {
+    "name": "STOC",
+    "year": 2025,
+    "url": "https://acm-stoc.org/stoc2025/accepted-papers.html",
+    "strategy": "generic_list",
+    "raw_length": 40873,
+    "cn_keyword_mentions": 49,
+    "error": null
+  },
+  {
+    "name": "SODA",
+    "year": 2025,
+    "url": "https://www.siam.org/conferences-events/past-event-archive/soda25/program/accepted-papers/",
+    "strategy": "generic_list",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.siam.org/conferences-events/past-event-archive/soda25/program/accepted-papers/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "CAV",
+    "year": 2025,
+    "url": "https://conferences.i-cav.org/2025/accepted/",
+    "strategy": "generic_list",
+    "raw_length": 17667,
+    "cn_keyword_mentions": 38,
+    "error": null
+  },
+  {
+    "name": "FOCS",
+    "year": 2024,
+    "url": "https://focs.computer.org/2024/accepted-papers-for-focs-2024/",
+    "strategy": "generic_list",
+    "raw_length": 25098,
+    "cn_keyword_mentions": 14,
+    "error": null
+  },
+  {
+    "name": "LICS",
+    "year": 2025,
+    "url": "https://lics.siglog.org/lics25/accepted.php",
+    "strategy": "generic_list",
+    "raw_length": 7795,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "ACM MM",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3664647",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3664647\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "SIGGRAPH",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3721238",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3721238\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "VR",
+    "year": 2025,
+    "url": "https://ieeevr.org/2025/program/papers/",
+    "strategy": "generic_list",
+    "raw_length": 247595,
+    "cn_keyword_mentions": 295,
+    "error": null
+  },
+  {
+    "name": "IEEE VIS",
+    "year": 2024,
+    "url": "https://ieeevis.org/year/2024/program/papers.html",
+    "strategy": "generic_list",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://ieeevis.org/year/2024/program/papers.html\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "AAAI",
+    "year": 2025,
+    "url": "https://aaai.org/aaai-publications/aaai-conference-proceedings/aaai-25-technical-program/",
+    "strategy": "generic_list",
+    "raw_length": 793,
+    "cn_keyword_mentions": 0,
+    "error": null
+  },
+  {
+    "name": "NeurIPS",
+    "year": 2024,
+    "url": "https://neurips.cc/virtual/2024/papers.html",
+    "strategy": "neurips",
+    "raw_length": 77043,
+    "cn_keyword_mentions": 9,
+    "error": null
+  },
+  {
+    "name": "ACL",
+    "year": 2025,
+    "url": "https://aclanthology.org/events/acl-2025/",
+    "strategy": "acl_anthology",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://aclanthology.org/events/acl-2025/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "CVPR",
+    "year": 2025,
+    "url": "https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers",
+    "strategy": "cvf",
+    "raw_length": 594323,
+    "cn_keyword_mentions": 44,
+    "error": null
+  },
+  {
+    "name": "ICCV",
+    "year": 2023,
+    "url": "https://openaccess.thecvf.com/ICCV2023?day=all",
+    "strategy": "cvf",
+    "raw_length": 370879,
+    "cn_keyword_mentions": 17,
+    "error": null
+  },
+  {
+    "name": "ICML",
+    "year": 2025,
+    "url": "https://icml.cc/virtual/2025/papers.html",
+    "strategy": "neurips",
+    "raw_length": 78106,
+    "cn_keyword_mentions": 5,
+    "error": null
+  },
+  {
+    "name": "ICLR",
+    "year": 2025,
+    "url": "https://iclr.cc/virtual/2025/papers.html",
+    "strategy": "neurips",
+    "raw_length": 79385,
+    "cn_keyword_mentions": 7,
+    "error": null
+  },
+  {
+    "name": "CSCW",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3686010",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3686010\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "CHI",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3706598",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3706598\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "UbiComp",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3675094",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3675094\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "UIST",
+    "year": 2024,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3654777",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3654777\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "WWW",
+    "year": 2025,
+    "url": "https://dl.acm.org/doi/proceedings/10.1145/3696410",
+    "strategy": "acm_dl",
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://dl.acm.org/doi/proceedings/10.1145/3696410\", waiting until \"networkidle\"\n"
+  },
+  {
+    "name": "RTSS",
+    "year": 2024,
+    "url": "https://2024.rtss.org/accepted-papers/index.html",
+    "strategy": "generic_list",
+    "raw_length": 9033,
+    "cn_keyword_mentions": 0,
+    "error": null
+  }
+]

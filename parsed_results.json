@@ -1,0 +1,473 @@
+{
+  "AAAI": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "CAV": {
+    "strategy": "theory",
+    "total_parsed": 69,
+    "cn_first_affil": 6,
+    "cn_pct": 8.7,
+    "sample": []
+  },
+  "CCS": {
+    "strategy": "ccs_style",
+    "total_parsed": 984,
+    "cn_first_affil": 306,
+    "cn_pct": 31.1,
+    "sample": [
+      {
+        "title": "Beowulf: Mitigating Model Extraction Attacks Via Reshaping Decision Regions",
+        "first_affil": "Wuhan University",
+        "is_cn": true
+      }
+    ]
+  },
+  "CVPR": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "EUROCRYPT": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "FAST": {
+    "strategy": "usenix",
+    "total_parsed": 60,
+    "cn_first_affil": 21,
+    "cn_pct": 35.0,
+    "sample": []
+  },
+  "FM": {
+    "strategy": "generic",
+    "total_parsed": 4,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "FOCS": {
+    "strategy": "theory",
+    "total_parsed": 114,
+    "cn_first_affil": 5,
+    "cn_pct": 4.4,
+    "sample": []
+  },
+  "FSE": {
+    "strategy": "generic",
+    "total_parsed": 4,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "HPCA": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ICCV": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ICDE": {
+    "strategy": "generic",
+    "total_parsed": 172,
+    "cn_first_affil": 116,
+    "cn_pct": 67.4,
+    "sample": [
+      {
+        "title": "1.1: AI-based DB Tuning, Benchmarks and Performances I",
+        "first_affil": "Zhejiang University",
+        "is_cn": true
+      },
+      {
+        "title": "Session Chair: Yuren Mao (Zhejiang University)",
+        "first_affil": "Zhejiang University",
+        "is_cn": true
+      }
+    ]
+  },
+  "ICLR": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ICML": {
+    "total_parsed": 1,
+    "cn_first_affil": 1,
+    "cn_pct": 100.0,
+    "strategy": "v2"
+  },
+  "INFOCOM": {
+    "strategy": "infocom_style",
+    "total_parsed": 166,
+    "cn_first_affil": 130,
+    "cn_pct": 78.3,
+    "sample": [
+      {
+        "title": "Achieving Efficient Multipath Validation in Software-Defined Networks",
+        "first_affil": "Northeastern University, China",
+        "is_cn": true
+      },
+      {
+        "title": "Oracle: QoS-aware Online Service Provisioning in Non-Terrestrial Networks with Safe Transfer Learning",
+        "first_affil": "Singapore University of Technology and Design, Singapore",
+        "is_cn": true
+      },
+      {
+        "title": "MULoc: Towards Millimeter-Accurate Localization for Unlimited UWB Tags via Anchor Overhearing",
+        "first_affil": "Institute of Software, Chinese Academy of Sciences and Univerisity of Chinese Academy of Sciences",
+        "is_cn": true
+      }
+    ]
+  },
+  "ISSTA": {
+    "strategy": "generic",
+    "total_parsed": 2,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "LICS": {
+    "strategy": "theory",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "NDSS": {
+    "strategy": "ccs_style",
+    "total_parsed": 143,
+    "cn_first_affil": 70,
+    "cn_pct": 49.0,
+    "sample": []
+  },
+  "NSDI": {
+    "strategy": "usenix",
+    "total_parsed": 116,
+    "cn_first_affil": 38,
+    "cn_pct": 32.8,
+    "sample": []
+  },
+  "NeurIPS": {
+    "total_parsed": 1,
+    "cn_first_affil": 1,
+    "cn_pct": 100.0,
+    "strategy": "v2"
+  },
+  "OOPSLA": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "OSDI": {
+    "strategy": "usenix",
+    "total_parsed": 78,
+    "cn_first_affil": 14,
+    "cn_pct": 17.9,
+    "sample": []
+  },
+  "PLDI": {
+    "strategy": "sigplan",
+    "total_parsed": 32,
+    "cn_first_affil": 3,
+    "cn_pct": 9.4,
+    "sample": []
+  },
+  "POPL": {
+    "strategy": "sigplan",
+    "total_parsed": 31,
+    "cn_first_affil": 4,
+    "cn_pct": 12.9,
+    "sample": []
+  },
+  "RTSS": {
+    "total_parsed": 1,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "strategy": "v2"
+  },
+  "S&P": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "SC": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "SIGIR": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "SIGMOD": {
+    "strategy": "generic",
+    "total_parsed": 118,
+    "cn_first_affil": 59,
+    "cn_pct": 50.0,
+    "sample": []
+  },
+  "STOC": {
+    "strategy": "theory",
+    "total_parsed": 186,
+    "cn_first_affil": 17,
+    "cn_pct": 9.1,
+    "sample": []
+  },
+  "USENIX ATC": {
+    "strategy": "usenix",
+    "total_parsed": 152,
+    "cn_first_affil": 62,
+    "cn_pct": 40.8,
+    "sample": []
+  },
+  "USENIX Security": {
+    "strategy": "usenix",
+    "total_parsed": 167,
+    "cn_first_affil": 38,
+    "cn_pct": 22.8,
+    "sample": []
+  },
+  "VLDB": {
+    "strategy": "generic",
+    "total_parsed": 169,
+    "cn_first_affil": 34,
+    "cn_pct": 20.1,
+    "sample": []
+  },
+  "VR": {
+    "strategy": "infocom_style",
+    "total_parsed": 41,
+    "cn_first_affil": 2,
+    "cn_pct": 4.9,
+    "sample": []
+  },
+  "PPoPP": {
+    "total_parsed": 46,
+    "cn_first_affil": 25,
+    "cn_pct": 54.3,
+    "strategy": "v2"
+  },
+  "DAC": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "MICRO": {
+    "strategy": "generic",
+    "total_parsed": 2,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ASPLOS": {
+    "strategy": "generic",
+    "total_parsed": 200,
+    "cn_first_affil": 77,
+    "cn_pct": 38.5,
+    "sample": [
+      {
+        "title": "LOCATION: ROTTERDAM HALL 1",
+        "first_affil": "Shanghai Jiao Tong University",
+        "is_cn": true
+      },
+      {
+        "title": "LOCATION: ROTTERDAM HALL 1",
+        "first_affil": "Shanghai Jiao Tong University",
+        "is_cn": true
+      },
+      {
+        "title": "Session 1A: ML Acceleration",
+        "first_affil": "SKL of Processors, Institute of Computing Technology, Chinese Academy of Sciences,University of Chinese Academy of Sciences",
+        "is_cn": true
+      }
+    ]
+  },
+  "ISCA": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "EuroSys": {
+    "strategy": "generic",
+    "total_parsed": 31,
+    "cn_first_affil": 23,
+    "cn_pct": 74.2,
+    "sample": [
+      {
+        "title": "ROTTERDAM",
+        "first_affil": "Tsinghua University",
+        "is_cn": true
+      },
+      {
+        "title": "Title\tAuthors",
+        "first_affil": "Tsinghua University",
+        "is_cn": true
+      },
+      {
+        "title": "Understanding and Detecting SQL Function Bugs: Using Simple Boundary Arguments to Trigger Hundreds o",
+        "first_affil": "Tsinghua University",
+        "is_cn": true
+      }
+    ]
+  },
+  "HPDC": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "SIGCOMM": {
+    "strategy": "generic",
+    "total_parsed": 86,
+    "cn_first_affil": 53,
+    "cn_pct": 61.6,
+    "sample": [
+      {
+        "title": "Full papers",
+        "first_affil": "Hong Kong University of Science and Technology",
+        "is_cn": true
+      },
+      {
+        "title": "Xudong Liao, Yijun Sun (Hong Kong University of Science and Technology); Han Tian (The University of",
+        "first_affil": "Hong Kong University of Science and Technology",
+        "is_cn": true
+      },
+      {
+        "title": "Xing Li (Zhejiang University and Alibaba Cloud); Enge Song, Bowen Yang, Tian Pan, Ye Yang (Alibaba C",
+        "first_affil": "Zhejiang University and Alibaba Cloud",
+        "is_cn": true
+      }
+    ]
+  },
+  "MobiCom": {
+    "strategy": "generic",
+    "total_parsed": 37,
+    "cn_first_affil": 18,
+    "cn_pct": 48.6,
+    "sample": []
+  },
+  "CRYPTO": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "SOSP": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ASE": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "ICSE": {
+    "total_parsed": 380,
+    "cn_first_affil": 151,
+    "cn_pct": 39.7,
+    "strategy": "v2"
+  },
+  "SIGKDD": {
+    "total_parsed": 1,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "strategy": "v2"
+  },
+  "SODA": {
+    "total_parsed": 171,
+    "cn_first_affil": 20,
+    "cn_pct": 11.7,
+    "strategy": "v2"
+  },
+  "ACM MM": {
+    "total_parsed": 1148,
+    "cn_first_affil": 16,
+    "cn_pct": 1.4,
+    "strategy": "v2"
+  },
+  "SIGGRAPH": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "IEEE VIS": {
+    "total_parsed": 1,
+    "cn_first_affil": 1,
+    "cn_pct": 100.0,
+    "strategy": "v2"
+  },
+  "ACL": {
+    "strategy": "generic",
+    "total_parsed": 6,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "CSCW": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "CHI": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "UbiComp": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  },
+  "UIST": {
+    "strategy": "generic",
+    "total_parsed": 0,
+    "cn_first_affil": 0,
+    "cn_pct": 0.0,
+    "sample": []
+  }
+}

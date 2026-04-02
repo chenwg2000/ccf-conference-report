@@ -1,0 +1,350 @@
+{
+  "PPoPP": {
+    "total": 51,
+    "cn": 27,
+    "pct": 52.9,
+    "source": "ppopp25.sigplan.org"
+  },
+  "FAST": {
+    "total": 36,
+    "cn": 16,
+    "pct": 44.4,
+    "source": "usenix.org/fast25"
+  },
+  "DAC": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "no affil data on website"
+  },
+  "HPCA": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "no affil data on website"
+  },
+  "MICRO": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "no affil data on website"
+  },
+  "SC": {
+    "total": 102,
+    "cn": 4,
+    "pct": 3.9,
+    "source": "sc24.supercomputing.org"
+  },
+  "ASPLOS": {
+    "total": 182,
+    "cn": 77,
+    "pct": 38.5,
+    "source": "asplos-conference.org"
+  },
+  "ISCA": {
+    "total": 136,
+    "cn": 65,
+    "pct": 47.8,
+    "source": "iscaconf.org - DBLP"
+  },
+  "USENIX ATC": {
+    "total": 101,
+    "cn": 60,
+    "pct": 59.4,
+    "source": "usenix.org/atc25"
+  },
+  "EuroSys": {
+    "total": 86,
+    "cn": 50,
+    "pct": 58.1,
+    "source": "2025.eurosys.org"
+  },
+  "HPDC": {
+    "total": 53,
+    "cn": 15,
+    "pct": 28.3,
+    "source": "DBLP surname"
+  },
+  "SIGCOMM": {
+    "total": 74,
+    "cn": 25,
+    "pct": 33.8,
+    "source": "conferences.sigcomm.org"
+  },
+  "MobiCom": {
+    "total": 55,
+    "cn": 18,
+    "pct": 32.7,
+    "source": "sigmobile.org - prev round"
+  },
+  "INFOCOM": {
+    "total": 272,
+    "cn": 171,
+    "pct": 62.9,
+    "source": "infocom2025.ieee-infocom.org"
+  },
+  "NSDI": {
+    "total": 83,
+    "cn": 35,
+    "pct": 42.2,
+    "source": "usenix.org/nsdi25"
+  },
+  "CCS": {
+    "total": 331,
+    "cn": 98,
+    "pct": 29.6,
+    "source": "sigsac.org/ccs2024"
+  },
+  "EUROCRYPT": {
+    "total": 123,
+    "cn": 13,
+    "pct": 10.6,
+    "source": "eurocrypt.iacr.org/2025"
+  },
+  "S&P": {
+    "total": 257,
+    "cn": 91,
+    "pct": 35.4,
+    "source": "DBLP surname"
+  },
+  "CRYPTO": {
+    "total": 143,
+    "cn": 12,
+    "pct": 8.4,
+    "source": "crypto.iacr.org/2024"
+  },
+  "USENIX Security": {
+    "total": 440,
+    "cn": 57,
+    "pct": 13.0,
+    "source": "usenix.org/sec25"
+  },
+  "NDSS": {
+    "total": 211,
+    "cn": 68,
+    "pct": 32.2,
+    "source": "ndss-symposium.org/ndss2025"
+  },
+  "PLDI": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "PACMPL - no affil data"
+  },
+  "POPL": {
+    "total": 79,
+    "cn": 4,
+    "pct": 5.1,
+    "source": "popl25.sigplan.org"
+  },
+  "FSE": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "conf.researchr.org down"
+  },
+  "SOSP": {
+    "total": 44,
+    "cn": 17,
+    "pct": 38.6,
+    "source": "DBLP surname"
+  },
+  "OOPSLA": {
+    "total": null,
+    "cn": null,
+    "pct": null,
+    "source": "no affil data"
+  },
+  "ASE": {
+    "total": 267,
+    "cn": 139,
+    "pct": 52.1,
+    "source": "conf.researchr.org"
+  },
+  "ICSE": {
+    "total": 246,
+    "cn": 19,
+    "pct": 7.7,
+    "source": "conf.researchr.org/icse2025"
+  },
+  "ISSTA": {
+    "total": 171,
+    "cn": 105,
+    "pct": 61.4,
+    "source": "DBLP surname 2024"
+  },
+  "OSDI": {
+    "total": 44,
+    "cn": 13,
+    "pct": 29.5,
+    "source": "usenix.org/osdi24"
+  },
+  "FM": {
+    "total": 69,
+    "cn": 16,
+    "pct": 23.2,
+    "source": "DBLP surname"
+  },
+  "SIGMOD": {
+    "total": 380,
+    "cn": 195,
+    "pct": 51.3,
+    "source": "DBLP surname"
+  },
+  "SIGKDD": {
+    "total": 846,
+    "cn": 491,
+    "pct": 58.0,
+    "source": "DBLP surname"
+  },
+  "ICDE": {
+    "total": 399,
+    "cn": 111,
+    "pct": 27.8,
+    "source": "ieee-icde.org/2025"
+  },
+  "SIGIR": {
+    "total": 238,
+    "cn": 216,
+    "pct": 39.9,
+    "source": "DBLP surname"
+  },
+  "VLDB": {
+    "total": 496,
+    "cn": 237,
+    "pct": 47.8,
+    "source": "DBLP surname"
+  },
+  "STOC": {
+    "total": 220,
+    "cn": 11,
+    "pct": 5.0,
+    "source": "acm-stoc.org/stoc2025"
+  },
+  "SODA": {
+    "total": 192,
+    "cn": 10,
+    "pct": 5.2,
+    "source": "siam.org/soda25"
+  },
+  "CAV": {
+    "total": 83,
+    "cn": 7,
+    "pct": 8.4,
+    "source": "conferences.i-cav.org/2025"
+  },
+  "FOCS": {
+    "total": 133,
+    "cn": 5,
+    "pct": 3.8,
+    "source": "focs.computer.org/2024"
+  },
+  "LICS": {
+    "total": 67,
+    "cn": 1,
+    "pct": 1.5,
+    "source": "DBLP surname"
+  },
+  "ACM MM": {
+    "total": 1238,
+    "cn": 970,
+    "pct": 78.4,
+    "source": "DBLP surname"
+  },
+  "SIGGRAPH": {
+    "total": 175,
+    "cn": 99,
+    "pct": 56.6,
+    "source": "DBLP surname"
+  },
+  "VR": {
+    "total": 76,
+    "cn": 2,
+    "pct": 2.6,
+    "source": "ieeevr.org/2025"
+  },
+  "IEEE VIS": {
+    "total": 124,
+    "cn": 13,
+    "pct": 10.5,
+    "source": "DBLP surname"
+  },
+  "AAAI": {
+    "total": 3487,
+    "cn": 2074,
+    "pct": 59.5,
+    "source": "DBLP surname"
+  },
+  "NeurIPS": {
+    "total": 4495,
+    "cn": 2144,
+    "pct": 47.7,
+    "source": "DBLP surname"
+  },
+  "ACL": {
+    "total": 1769,
+    "cn": 981,
+    "pct": 55.5,
+    "source": "DBLP surname"
+  },
+  "CVPR": {
+    "total": 2872,
+    "cn": 1811,
+    "pct": 63.1,
+    "source": "DBLP surname"
+  },
+  "ICCV": {
+    "total": 2157,
+    "cn": 1246,
+    "pct": 57.8,
+    "source": "DBLP surname (2023)"
+  },
+  "ICML": {
+    "total": 3258,
+    "cn": 1627,
+    "pct": 49.9,
+    "source": "DBLP surname"
+  },
+  "ICLR": {
+    "total": 3705,
+    "cn": 1882,
+    "pct": 50.8,
+    "source": "DBLP surname"
+  },
+  "CSCW": {
+    "total": 140,
+    "cn": 35,
+    "pct": 25.0,
+    "source": "prev institution round"
+  },
+  "CHI": {
+    "total": 1249,
+    "cn": 361,
+    "pct": 28.9,
+    "source": "DBLP surname"
+  },
+  "UbiComp": {
+    "total": 208,
+    "cn": 108,
+    "pct": 51.9,
+    "source": "DBLP surname"
+  },
+  "UIST": {
+    "total": 147,
+    "cn": 55,
+    "pct": 37.4,
+    "source": "DBLP surname"
+  },
+  "WWW": {
+    "total": 448,
+    "cn": 268,
+    "pct": 59.8,
+    "source": "DBLP surname"
+  },
+  "RTSS": {
+    "total": 43,
+    "cn": 14,
+    "pct": 32.6,
+    "source": "DBLP surname"
+  }
+}

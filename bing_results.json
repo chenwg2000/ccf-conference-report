@@ -1,0 +1,292 @@
+[
+  {
+    "name": "PPoPP",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "FAST",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "DAC",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "HPCA",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "MICRO",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SC",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ASPLOS",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ISCA",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "USENIX ATC",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "EuroSys",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "HPDC",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SIGCOMM",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "MobiCom",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "INFOCOM",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "NSDI",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CCS",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "EUROCRYPT",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "S&P",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CRYPTO",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "USENIX Security",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "NDSS",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "PLDI",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "POPL",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "FSE",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SOSP",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "OOPSLA",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ASE",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ICSE",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ISSTA",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "OSDI",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "FM",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SIGMOD",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SIGKDD",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ICDE",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SIGIR",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "VLDB",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "STOC",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SODA",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CAV",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "FOCS",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "LICS",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ACM MM",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "SIGGRAPH",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "VR",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "IEEE VIS",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "AAAI",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "NeurIPS",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ACL",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CVPR",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ICCV",
+    "year": 2023,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ICML",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "ICLR",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CSCW",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "CHI",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "UbiComp",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "UIST",
+    "year": 2024,
+    "error": "no Bing results"
+  },
+  {
+    "name": "WWW",
+    "year": 2025,
+    "error": "no Bing results"
+  },
+  {
+    "name": "RTSS",
+    "year": 2024,
+    "error": "no Bing results"
+  }
+]

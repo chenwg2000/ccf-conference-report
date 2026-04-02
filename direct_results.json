@@ -1,0 +1,466 @@
+[
+  {
+    "name": "PPoPP 2025",
+    "url": "https://ppopp25.sigplan.org/program/program-ppopp-2025",
+    "total": 116,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "FAST 2025",
+    "url": "https://www.usenix.org/conference/fast25/technical-sessions",
+    "total": 91,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "DAC 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "HPCA 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "MICRO 2024",
+    "url": "https://microarch.org/micro57/index.php/program/",
+    "total": 21,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SC 2024",
+    "url": "https://sc24.supercomputing.org/program/papers/",
+    "total": 92,
+    "cn": 1,
+    "pct": 1.1,
+    "error": null
+  },
+  {
+    "name": "ASPLOS 2025",
+    "url": "https://www.asplos-conference.org/asplos2025/program.html",
+    "total": 15,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ISCA 2025",
+    "url": "https://iscaconf.org/isca2025/",
+    "total": 55,
+    "cn": 1,
+    "pct": 1.8,
+    "error": null
+  },
+  {
+    "name": "USENIX ATC 2025",
+    "url": "https://www.usenix.org/conference/atc25/technical-sessions",
+    "total": 159,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "EuroSys 2025",
+    "url": "https://2025.eurosys.org/accepted-papers.html",
+    "total": 86,
+    "cn": 50,
+    "pct": 58.1,
+    "error": null
+  },
+  {
+    "name": "HPDC 2025",
+    "url": "https://hpdc.sci.utah.edu/2025/program.html",
+    "total": 112,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SIGCOMM 2025",
+    "url": "https://conferences.sigcomm.org/sigcomm/2025/accepted-papers/",
+    "total": 125,
+    "cn": 18,
+    "pct": 14.4,
+    "error": null
+  },
+  {
+    "name": "MobiCom 2024",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "INFOCOM 2025",
+    "url": "https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference",
+    "total": 276,
+    "cn": 176,
+    "pct": 63.8,
+    "error": null
+  },
+  {
+    "name": "NSDI 2025",
+    "url": "https://www.usenix.org/conference/nsdi25/technical-sessions",
+    "total": 139,
+    "cn": 1,
+    "pct": 0.7,
+    "error": null
+  },
+  {
+    "name": "CCS 2024",
+    "url": "https://www.sigsac.org/ccs/CCS2024/program/accepted-papers.html",
+    "total": 328,
+    "cn": 98,
+    "pct": 29.9,
+    "error": null
+  },
+  {
+    "name": "EUROCRYPT 2025",
+    "url": "https://eurocrypt.iacr.org/2025/acceptedpapers.php",
+    "total": 249,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "S&P 2025",
+    "url": "https://sp2025.ieee-security.org/accepted-papers.html",
+    "total": 111,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "CRYPTO 2024",
+    "url": "https://crypto.iacr.org/2024/acceptedpapers.php",
+    "total": 288,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "USENIX Security 2025",
+    "url": "https://www.usenix.org/conference/usenixsecurity25/technical-sessions",
+    "total": 912,
+    "cn": 1,
+    "pct": 0.1,
+    "error": null
+  },
+  {
+    "name": "NDSS 2025",
+    "url": "https://www.ndss-symposium.org/ndss2025/accepted-papers/",
+    "total": 297,
+    "cn": 19,
+    "pct": 6.4,
+    "error": null
+  },
+  {
+    "name": "PLDI 2025",
+    "url": "https://pldi25.sigplan.org/track/pldi-2025-papers",
+    "total": 19,
+    "cn": 2,
+    "pct": 10.5,
+    "error": null
+  },
+  {
+    "name": "POPL 2025",
+    "url": "https://popl25.sigplan.org/track/POPL-2025-popl-research-papers",
+    "total": 21,
+    "cn": 3,
+    "pct": 14.3,
+    "error": null
+  },
+  {
+    "name": "FSE 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "SOSP 2024",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "OOPSLA 2024",
+    "url": "https://2024.splashcon.org/track/splash-2024-oopsla",
+    "total": 5,
+    "cn": 1,
+    "pct": 20.0,
+    "error": null
+  },
+  {
+    "name": "ASE 2024",
+    "url": "https://conf.researchr.org/track/ase-2024/ase-2024-research",
+    "total": 39,
+    "cn": 12,
+    "pct": 30.8,
+    "error": null
+  },
+  {
+    "name": "ICSE 2025",
+    "url": "https://conf.researchr.org/track/icse-2025/icse-2025-research-track",
+    "total": 65,
+    "cn": 8,
+    "pct": 12.3,
+    "error": null
+  },
+  {
+    "name": "ISSTA 2025",
+    "url": "https://conf.researchr.org/track/issta-2025/issta-2025-papers",
+    "total": 9,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "OSDI 2024",
+    "url": "https://www.usenix.org/conference/osdi24/technical-sessions",
+    "total": 103,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "FM 2024",
+    "url": "https://www.fm24.polimi.it/?page_id=559",
+    "total": 37,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SIGMOD 2025",
+    "url": "https://2025.sigmod.org/sigmod_papers.shtml",
+    "total": 10,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SIGKDD 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "ICDE 2025",
+    "url": "https://ieee-icde.org/2025/research-papers/",
+    "total": 603,
+    "cn": 112,
+    "pct": 18.6,
+    "error": null
+  },
+  {
+    "name": "SIGIR 2025",
+    "url": "https://sigir2025.dei.unipd.it/accepted-papers.html",
+    "total": 8,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "VLDB 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "STOC 2025",
+    "url": "https://acm-stoc.org/stoc2025/accepted-papers.html",
+    "total": 214,
+    "cn": 14,
+    "pct": 6.5,
+    "error": null
+  },
+  {
+    "name": "SODA 2025",
+    "url": "https://www.siam.org/conferences-events/past-event-archive/soda25/program/accepted-papers/",
+    "total": 199,
+    "cn": 11,
+    "pct": 5.5,
+    "error": null
+  },
+  {
+    "name": "CAV 2025",
+    "url": "https://conferences.i-cav.org/2025/accepted/",
+    "total": 79,
+    "cn": 7,
+    "pct": 8.9,
+    "error": null
+  },
+  {
+    "name": "FOCS 2024",
+    "url": "https://focs.computer.org/2024/accepted-papers-for-focs-2024/",
+    "total": 130,
+    "cn": 5,
+    "pct": 3.8,
+    "error": null
+  },
+  {
+    "name": "LICS 2025",
+    "url": "https://lics.siglog.org/lics25/accepted.php",
+    "total": 3,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ACM MM 2024",
+    "url": "https://2024.acmmm.org/accepted-list",
+    "total": 2300,
+    "cn": 7,
+    "pct": 0.3,
+    "error": null
+  },
+  {
+    "name": "SIGGRAPH 2025",
+    "url": "https://s2025.siggraph.org/program/technical-papers/",
+    "total": 57,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "VR 2025",
+    "url": "https://ieeevr.org/2025/program/papers/",
+    "total": 117,
+    "cn": 12,
+    "pct": 10.3,
+    "error": null
+  },
+  {
+    "name": "IEEE VIS 2024",
+    "url": "https://ieeevis.org/year/2024/program/papers.html",
+    "total": 7,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "AAAI 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "NeurIPS 2024",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024",
+    "total": 5,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ACL 2025",
+    "url": "https://aclanthology.org/events/acl-2025/",
+    "total": 110,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "CVPR 2025",
+    "url": "https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers",
+    "total": 2880,
+    "cn": 20,
+    "pct": 0.7,
+    "error": null
+  },
+  {
+    "name": "ICCV 2023",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "ICML 2025",
+    "url": "https://icml.cc/Conferences/2025/Schedule?type=Poster",
+    "total": 7,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ICLR 2025",
+    "url": "https://iclr.cc/Conferences/2025/Schedule?type=Poster",
+    "total": 7,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "CSCW 2024",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "CHI 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "UbiComp 2024",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "UIST 2024",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "WWW 2025",
+    "url": "",
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "error": "no useful content found"
+  },
+  {
+    "name": "RTSS 2024",
+    "url": "https://2024.rtss.org/accepted-papers/index.html",
+    "total": 5,
+    "cn": 0,
+    "pct": 0.0,
+    "error": null
+  }
+]

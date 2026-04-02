@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+raw/
+raw_bing/
+raw_direct/
+*.log

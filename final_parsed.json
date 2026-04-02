@@ -1,0 +1,222 @@
+{
+  "ACL_2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ACM_MM_2024": {
+    "total": 60,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ASE_2024": {
+    "total": 60,
+    "cn": 22,
+    "pct": 36.7
+  },
+  "ASPLOS_2025": {
+    "total": 6,
+    "cn": 1,
+    "pct": 16.7
+  },
+  "CAV_2025": {
+    "total": 65,
+    "cn": 7,
+    "pct": 10.8
+  },
+  "CCS_2024": {
+    "total": 1086,
+    "cn": 369,
+    "pct": 34.0
+  },
+  "CRYPTO_2024": {
+    "total": 115,
+    "cn": 12,
+    "pct": 10.4
+  },
+  "CVPR_2025": {
+    "total": 37,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "EUROCRYPT_2025": {
+    "total": 90,
+    "cn": 13,
+    "pct": 14.4
+  },
+  "EuroSys_2025": {
+    "total": 1,
+    "cn": 1,
+    "pct": 100.0
+  },
+  "FAST_2025": {
+    "total": 43,
+    "cn": 19,
+    "pct": 44.2
+  },
+  "FM_2024": {
+    "total": 2,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "FOCS_2024": {
+    "total": 95,
+    "cn": 5,
+    "pct": 5.3
+  },
+  "HPDC_2025": {
+    "total": 10,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ICDE_2025": {
+    "total": 203,
+    "cn": 111,
+    "pct": 54.7
+  },
+  "ICLR_2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ICML_2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ICSE_2025": {
+    "total": 70,
+    "cn": 19,
+    "pct": 27.1
+  },
+  "IEEE_VIS_2024": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "INFOCOM_2025": {
+    "total": 266,
+    "cn": 171,
+    "pct": 64.3
+  },
+  "ISCA_2025": {
+    "total": 11,
+    "cn": 1,
+    "pct": 9.1
+  },
+  "ISSTA_2025": {
+    "total": 4,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "LICS_2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "MICRO_2024": {
+    "total": 3,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "NDSS_2025": {
+    "total": 183,
+    "cn": 68,
+    "pct": 37.2
+  },
+  "NSDI_2025": {
+    "total": 81,
+    "cn": 35,
+    "pct": 43.2
+  },
+  "NeurIPS_2024": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "OOPSLA_2024": {
+    "total": 2,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "OSDI_2024": {
+    "total": 52,
+    "cn": 13,
+    "pct": 25.0
+  },
+  "PLDI_2025": {
+    "total": 38,
+    "cn": 3,
+    "pct": 7.9
+  },
+  "POPL_2025": {
+    "total": 42,
+    "cn": 4,
+    "pct": 9.5
+  },
+  "PPoPP_2025": {
+    "total": 35,
+    "cn": 7,
+    "pct": 20.0
+  },
+  "RTSS_2024": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SC_2024": {
+    "total": 16,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SIGCOMM_2025": {
+    "total": 66,
+    "cn": 25,
+    "pct": 37.9
+  },
+  "SIGGRAPH_2025": {
+    "total": 3,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SIGIR_2025": {
+    "total": 8,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SIGMOD_2025": {
+    "total": 5,
+    "cn": 2,
+    "pct": 40.0
+  },
+  "SODA_2025": {
+    "total": 134,
+    "cn": 10,
+    "pct": 7.5
+  },
+  "STOC_2025": {
+    "total": 147,
+    "cn": 11,
+    "pct": 7.5
+  },
+  "SandP_2025": {
+    "total": 9,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "USENIX_ATC_2025": {
+    "total": 102,
+    "cn": 60,
+    "pct": 58.8
+  },
+  "USENIX_Security_2025": {
+    "total": 177,
+    "cn": 57,
+    "pct": 32.2
+  },
+  "VR_2025": {
+    "total": 36,
+    "cn": 2,
+    "pct": 5.6
+  }
+}

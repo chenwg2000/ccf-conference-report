@@ -1,0 +1,523 @@
+[
+  {
+    "name": "PPoPP",
+    "key": "ppopp",
+    "year": 2025,
+    "total_papers": 51,
+    "chinese_first_author": 27,
+    "chinese_pct": 52.9,
+    "error": null
+  },
+  {
+    "name": "FAST",
+    "key": "fast",
+    "year": 2025,
+    "total_papers": 37,
+    "chinese_first_author": 20,
+    "chinese_pct": 54.1,
+    "error": null
+  },
+  {
+    "name": "DAC",
+    "key": "dac",
+    "year": 2025,
+    "total_papers": 457,
+    "chinese_first_author": 296,
+    "chinese_pct": 64.8,
+    "error": null
+  },
+  {
+    "name": "HPCA",
+    "key": "hpca",
+    "year": 2025,
+    "total_papers": 122,
+    "chinese_first_author": 51,
+    "chinese_pct": 41.8,
+    "error": null
+  },
+  {
+    "name": "MICRO",
+    "key": "micro",
+    "year": 2024,
+    "total_papers": 116,
+    "chinese_first_author": 42,
+    "chinese_pct": 36.2,
+    "error": null
+  },
+  {
+    "name": "SC",
+    "key": "sc",
+    "year": 2024,
+    "total_papers": 109,
+    "chinese_first_author": 45,
+    "chinese_pct": 41.3,
+    "error": null
+  },
+  {
+    "name": "ASPLOS",
+    "key": "asplos",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ISCA",
+    "key": "isca",
+    "year": 2025,
+    "total_papers": 136,
+    "chinese_first_author": 65,
+    "chinese_pct": 47.8,
+    "error": null
+  },
+  {
+    "name": "USENIX ATC",
+    "key": "usenix",
+    "year": 2025,
+    "total_papers": 101,
+    "chinese_first_author": 67,
+    "chinese_pct": 66.3,
+    "error": null
+  },
+  {
+    "name": "EuroSys",
+    "key": "eurosys",
+    "year": 2025,
+    "total_papers": 86,
+    "chinese_first_author": 58,
+    "chinese_pct": 67.4,
+    "error": null
+  },
+  {
+    "name": "HPDC",
+    "key": "hpdc",
+    "year": 2025,
+    "total_papers": 53,
+    "chinese_first_author": 15,
+    "chinese_pct": 28.3,
+    "error": null
+  },
+  {
+    "name": "SIGCOMM",
+    "key": "sigcomm",
+    "year": 2025,
+    "total_papers": 89,
+    "chinese_first_author": 52,
+    "chinese_pct": 58.4,
+    "error": null
+  },
+  {
+    "name": "MobiCom",
+    "key": "mobicom",
+    "year": 2024,
+    "total_papers": 286,
+    "chinese_first_author": 155,
+    "chinese_pct": 54.2,
+    "error": null
+  },
+  {
+    "name": "INFOCOM",
+    "key": "infocom",
+    "year": 2025,
+    "total_papers": 273,
+    "chinese_first_author": 192,
+    "chinese_pct": 70.3,
+    "error": null
+  },
+  {
+    "name": "NSDI",
+    "key": "nsdi",
+    "year": 2025,
+    "total_papers": 84,
+    "chinese_first_author": 50,
+    "chinese_pct": 59.5,
+    "error": null
+  },
+  {
+    "name": "CCS",
+    "key": "ccs",
+    "year": 2024,
+    "total_papers": 419,
+    "chinese_first_author": 160,
+    "chinese_pct": 38.2,
+    "error": null
+  },
+  {
+    "name": "EUROCRYPT",
+    "key": "eurocrypt",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "S&P",
+    "key": "sp",
+    "year": 2025,
+    "total_papers": 256,
+    "chinese_first_author": 91,
+    "chinese_pct": 35.5,
+    "error": null
+  },
+  {
+    "name": "CRYPTO",
+    "key": "crypto",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "USENIX Security",
+    "key": "uss",
+    "year": 2025,
+    "total_papers": 440,
+    "chinese_first_author": 189,
+    "chinese_pct": 43.0,
+    "error": null
+  },
+  {
+    "name": "NDSS",
+    "key": "ndss",
+    "year": 2025,
+    "total_papers": 212,
+    "chinese_first_author": 117,
+    "chinese_pct": 55.2,
+    "error": null
+  },
+  {
+    "name": "PLDI",
+    "key": "pldi",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "POPL",
+    "key": "popl",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "FSE",
+    "key": "sigsoft",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SOSP",
+    "key": "sosp",
+    "year": 2024,
+    "total_papers": 44,
+    "chinese_first_author": 17,
+    "chinese_pct": 38.6,
+    "error": null
+  },
+  {
+    "name": "OOPSLA",
+    "key": "oopsla",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ASE",
+    "key": "kbse",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ICSE",
+    "key": "icse",
+    "year": 2025,
+    "total_papers": 246,
+    "chinese_first_author": 122,
+    "chinese_pct": 49.6,
+    "error": null
+  },
+  {
+    "name": "ISSTA",
+    "key": "issta",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "OSDI",
+    "key": "osdi",
+    "year": 2024,
+    "total_papers": 54,
+    "chinese_first_author": 27,
+    "chinese_pct": 50.0,
+    "error": null
+  },
+  {
+    "name": "FM",
+    "key": "fm",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SIGMOD",
+    "key": "sigmod",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "SIGKDD",
+    "key": "kdd",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ICDE",
+    "key": "icde",
+    "year": 2025,
+    "total_papers": 399,
+    "chinese_first_author": 278,
+    "chinese_pct": 69.7,
+    "error": null
+  },
+  {
+    "name": "SIGIR",
+    "key": "sigir",
+    "year": 2025,
+    "total_papers": 541,
+    "chinese_first_author": 216,
+    "chinese_pct": 39.9,
+    "error": null
+  },
+  {
+    "name": "VLDB",
+    "key": "vldb",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "STOC",
+    "key": "stoc",
+    "year": 2025,
+    "total_papers": 220,
+    "chinese_first_author": 37,
+    "chinese_pct": 16.8,
+    "error": null
+  },
+  {
+    "name": "SODA",
+    "key": "soda",
+    "year": 2025,
+    "total_papers": 193,
+    "chinese_first_author": 22,
+    "chinese_pct": 11.4,
+    "error": null
+  },
+  {
+    "name": "CAV",
+    "key": "cav",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "FOCS",
+    "key": "focs",
+    "year": 2024,
+    "total_papers": 134,
+    "chinese_first_author": 15,
+    "chinese_pct": 11.2,
+    "error": null
+  },
+  {
+    "name": "LICS",
+    "key": "lics",
+    "year": 2025,
+    "total_papers": 67,
+    "chinese_first_author": 1,
+    "chinese_pct": 1.5,
+    "error": null
+  },
+  {
+    "name": "ACM MM",
+    "key": "mm",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "error": "HTTPSConnectionPool(host='dblp.org', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "name": "SIGGRAPH",
+    "key": "siggraph",
+    "year": 2025,
+    "total_papers": 175,
+    "chinese_first_author": 99,
+    "chinese_pct": 56.6,
+    "error": null
+  },
+  {
+    "name": "VR",
+    "key": "vr",
+    "year": 2025,
+    "total_papers": 76,
+    "chinese_first_author": 21,
+    "chinese_pct": 27.6,
+    "error": null
+  },
+  {
+    "name": "IEEE VIS",
+    "key": "visualization",
+    "year": 2024,
+    "total_papers": 67,
+    "chinese_first_author": 13,
+    "chinese_pct": 19.4,
+    "error": null
+  },
+  {
+    "name": "AAAI",
+    "key": "aaai",
+    "year": 2025,
+    "total_papers": 3487,
+    "chinese_first_author": 2074,
+    "chinese_pct": 59.5,
+    "error": null
+  },
+  {
+    "name": "NeurIPS",
+    "key": "nips",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ACL",
+    "key": "acl",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "CVPR",
+    "key": "cvpr",
+    "year": 2025,
+    "total_papers": 2872,
+    "chinese_first_author": 1811,
+    "chinese_pct": 63.1,
+    "error": null
+  },
+  {
+    "name": "ICCV",
+    "key": "iccv",
+    "year": 2025,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "ICML",
+    "key": "icml",
+    "year": 2025,
+    "total_papers": 3258,
+    "chinese_first_author": 1627,
+    "chinese_pct": 49.9,
+    "error": null
+  },
+  {
+    "name": "ICLR",
+    "key": "iclr",
+    "year": 2025,
+    "total_papers": 3705,
+    "chinese_first_author": 1882,
+    "chinese_pct": 50.8,
+    "error": null
+  },
+  {
+    "name": "CSCW",
+    "key": "cscw",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "CHI",
+    "key": "chi",
+    "year": 2025,
+    "total_papers": 1250,
+    "chinese_first_author": 361,
+    "chinese_pct": 28.9,
+    "error": null
+  },
+  {
+    "name": "UbiComp",
+    "key": "huc",
+    "year": 2024,
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0,
+    "error": null
+  },
+  {
+    "name": "UIST",
+    "key": "uist",
+    "year": 2024,
+    "total_papers": 147,
+    "chinese_first_author": 55,
+    "chinese_pct": 37.4,
+    "error": null
+  },
+  {
+    "name": "WWW",
+    "key": "www",
+    "year": 2025,
+    "total_papers": 448,
+    "chinese_first_author": 268,
+    "chinese_pct": 59.8,
+    "error": null
+  },
+  {
+    "name": "RTSS",
+    "key": "rtss",
+    "year": 2024,
+    "total_papers": 43,
+    "chinese_first_author": 14,
+    "chinese_pct": 32.6,
+    "error": null
+  }
+]

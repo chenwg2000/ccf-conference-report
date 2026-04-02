@@ -1,0 +1,122 @@
+{
+  "ASPLOS": {
+    "name": "ASPLOS",
+    "total_papers": 182,
+    "chinese_first_author": 91,
+    "chinese_pct": 50.0
+  },
+  "EUROCRYPT": {
+    "name": "EUROCRYPT",
+    "total_papers": 131,
+    "chinese_first_author": 18,
+    "chinese_pct": 13.7
+  },
+  "CRYPTO": {
+    "name": "CRYPTO",
+    "total_papers": 153,
+    "chinese_first_author": 12,
+    "chinese_pct": 7.8
+  },
+  "CAV": {
+    "name": "CAV",
+    "total_papers": 83,
+    "chinese_first_author": 14,
+    "chinese_pct": 16.9
+  },
+  "FM": {
+    "name": "FM",
+    "total_papers": 69,
+    "chinese_first_author": 16,
+    "chinese_pct": 23.2
+  },
+  "ACL": {
+    "name": "ACL",
+    "total_papers": 1769,
+    "chinese_first_author": 981,
+    "chinese_pct": 55.5
+  },
+  "NeurIPS": {
+    "name": "NeurIPS",
+    "total_papers": 4495,
+    "chinese_first_author": 2144,
+    "chinese_pct": 47.7
+  },
+  "SIGMOD": {
+    "name": "SIGMOD",
+    "total_papers": 380,
+    "chinese_first_author": 195,
+    "chinese_pct": 51.3
+  },
+  "VLDB": {
+    "name": "VLDB",
+    "total_papers": 496,
+    "chinese_first_author": 237,
+    "chinese_pct": 47.8
+  },
+  "UbiComp": {
+    "name": "UbiComp",
+    "total_papers": 208,
+    "chinese_first_author": 108,
+    "chinese_pct": 51.9
+  },
+  "ASE": {
+    "name": "ASE",
+    "total_papers": 267,
+    "chinese_first_author": 139,
+    "chinese_pct": 52.1
+  },
+  "ACM MM": {
+    "name": "ACM MM",
+    "total_papers": 1238,
+    "chinese_first_author": 970,
+    "chinese_pct": 78.4
+  },
+  "OOPSLA": {
+    "name": "OOPSLA",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "POPL": {
+    "name": "POPL",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "PLDI": {
+    "name": "PLDI",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "ISSTA": {
+    "name": "ISSTA",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "FSE": {
+    "name": "FSE",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "CSCW": {
+    "name": "CSCW",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  },
+  "SIGKDD": {
+    "name": "SIGKDD",
+    "total_papers": 846,
+    "chinese_first_author": 491,
+    "chinese_pct": 58.0
+  },
+  "ICCV": {
+    "name": "ICCV",
+    "total_papers": 0,
+    "chinese_first_author": 0,
+    "chinese_pct": 0.0
+  }
+}
