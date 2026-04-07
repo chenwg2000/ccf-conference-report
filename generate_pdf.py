@@ -21,11 +21,11 @@ CSS_STYLE = """
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Source+Code+Pro&display=swap');
 
 @page {
-    size: A4;
-    margin: 20mm 18mm 20mm 18mm;
+    size: A4 landscape;
+    margin: 15mm 12mm 15mm 12mm;
     @bottom-center {
         content: counter(page) " / " counter(pages);
-        font-size: 9pt;
+        font-size: 8pt;
         color: #888;
     }
 }
@@ -34,53 +34,59 @@ CSS_STYLE = """
 
 body {
     font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
-    font-size: 10.5pt;
-    line-height: 1.6;
+    font-size: 10pt;
+    line-height: 1.5;
     color: #222;
 }
 
 h1 {
-    font-size: 18pt;
+    font-size: 17pt;
     font-weight: 700;
     color: #1a3a6b;
-    border-bottom: 2px solid #1a3a6b;
-    padding-bottom: 6px;
+    border-bottom: 2.5px solid #1a3a6b;
+    padding-bottom: 5px;
     margin-top: 0;
+    margin-bottom: 8pt;
 }
 
 h2 {
-    font-size: 13pt;
+    font-size: 12pt;
     font-weight: 700;
     color: #1a3a6b;
     border-left: 4px solid #1a3a6b;
     padding-left: 8px;
-    margin-top: 24pt;
+    margin-top: 18pt;
+    margin-bottom: 6pt;
     page-break-after: avoid;
 }
 
 h3 {
-    font-size: 11pt;
+    font-size: 10.5pt;
     font-weight: 700;
     color: #2c5f9e;
-    margin-top: 14pt;
+    margin-top: 12pt;
+    margin-bottom: 4pt;
     page-break-after: avoid;
 }
 
 blockquote {
     background: #f0f4fb;
     border-left: 4px solid #2c5f9e;
-    margin: 10pt 0;
-    padding: 8pt 12pt;
-    font-size: 9.5pt;
+    margin: 8pt 0;
+    padding: 6pt 10pt;
+    font-size: 8.5pt;
     color: #444;
+    line-height: 1.5;
 }
 
+/* ── Main data tables (conference listings) ── */
 table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 8.5pt;
-    margin: 10pt 0;
+    font-size: 7.5pt;
+    margin: 8pt 0;
     page-break-inside: auto;
+    table-layout: fixed;
 }
 
 thead tr {
@@ -89,9 +95,12 @@ thead tr {
 }
 
 thead th {
-    padding: 5pt 6pt;
+    padding: 4pt 4pt;
     text-align: center;
     font-weight: 600;
+    word-break: break-word;
+    vertical-align: middle;
+    line-height: 1.3;
 }
 
 tbody tr:nth-child(even) {
@@ -99,57 +108,86 @@ tbody tr:nth-child(even) {
 }
 
 tbody td {
-    padding: 4pt 6pt;
-    border-bottom: 1px solid #ddd;
+    padding: 3pt 4pt;
+    border-bottom: 1px solid #e0e0e0;
     vertical-align: top;
+    word-break: break-word;
+    line-height: 1.35;
 }
 
-tbody tr:hover {
-    background-color: #e8eef8;
+/* Column width hints for the main conference table (14 columns) */
+/* 序号 | 简称 | 英文全称 | 中文名称 | 最近一届 | 举办地点 | 主办机构 | 参与人数 | 录用论文 | 投稿数 | 录用率 | 中国学者 | 占比 | 方法 */
+col:nth-child(1)  { width: 3.5%; }   /* 序号 */
+col:nth-child(2)  { width: 6%;   }   /* 简称 */
+col:nth-child(3)  { width: 18%;  }   /* 英文全称 */
+col:nth-child(4)  { width: 9%;   }   /* 中文名称 */
+col:nth-child(5)  { width: 4.5%; }   /* 最近一届 */
+col:nth-child(6)  { width: 8.5%; }   /* 举办地点 */
+col:nth-child(7)  { width: 8.5%; }   /* 主办机构 */
+col:nth-child(8)  { width: 5%;   }   /* 参与人数 */
+col:nth-child(9)  { width: 5%;   }   /* 录用论文 */
+col:nth-child(10) { width: 5%;   }   /* 投稿数 */
+col:nth-child(11) { width: 5%;   }   /* 录用率 */
+col:nth-child(12) { width: 5.5%; }   /* 中国学者 */
+col:nth-child(13) { width: 4.5%; }   /* 占比 */
+col:nth-child(14) { width: 3.5%; }   /* 方法 */
+
+/* Summary / small tables — override to auto layout */
+.summary-table table {
+    table-layout: auto;
+    font-size: 8.5pt;
 }
 
-/* First column (number) */
 tbody td:first-child {
     text-align: center;
     color: #666;
-    width: 28pt;
 }
 
-/* Abbreviation column */
 tbody td:nth-child(2) {
     font-weight: 600;
     color: #1a3a6b;
-    white-space: nowrap;
 }
 
-/* Percentage column */
-tbody td:last-child {
+/* Numeric columns: center-align */
+tbody td:nth-child(5),
+tbody td:nth-child(8),
+tbody td:nth-child(9),
+tbody td:nth-child(10),
+tbody td:nth-child(11),
+tbody td:nth-child(12),
+tbody td:nth-child(13),
+tbody td:nth-child(14) {
     text-align: center;
+}
+
+/* Percentage highlight */
+tbody td:nth-child(13) {
     font-weight: 600;
+    color: #1a3a6b;
 }
 
 code {
     font-family: "Source Code Pro", "Courier New", monospace;
     background: #f5f5f5;
-    padding: 1pt 3pt;
+    padding: 1pt 2pt;
     border-radius: 2pt;
-    font-size: 8.5pt;
+    font-size: 7.5pt;
 }
 
 hr {
     border: none;
     border-top: 1px solid #ccc;
-    margin: 14pt 0;
+    margin: 10pt 0;
 }
 
-p { margin: 6pt 0; }
+p { margin: 5pt 0; }
 
 ul, ol {
-    margin: 6pt 0;
-    padding-left: 20pt;
+    margin: 5pt 0;
+    padding-left: 18pt;
 }
 
-li { margin: 3pt 0; }
+li { margin: 2pt 0; font-size: 9pt; }
 
 strong { color: #1a3a6b; }
 """

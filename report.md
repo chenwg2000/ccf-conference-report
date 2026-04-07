@@ -23,8 +23,8 @@
 | 1 | PPoPP | ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming | ACM并行编程原理与实践研讨会 | 2025 | Las Vegas, USA | ACM SIGPLAN | N/A | 51 | N/A | N/A | 27 | 52.9% | ⓘ |
 | 2 | FAST | USENIX Conference on File and Storage Technologies | USENIX文件与存储技术会议 | 2025 | Santa Clara, USA | USENIX Association | N/A | 36 | 167 | 21.6% | 16 | 44.4% | ⓘ |
 | 3 | DAC | Design Automation Conference | 设计自动化会议 | 2025 | San Francisco, USA | ACM SIGDA / IEEE CEDA | N/A | 457 | 1,545 | ~22% | 296 | 64.8% | ⓢ |
-| 4 | HPCA | IEEE International Symposium on High Performance Computer Architecture | IEEE高性能计算机体系结构国际研讨会 | 2025 | Las Vegas, USA | IEEE | N/A | 122 | N/A | N/A | 51 | 41.8% | ⓢ |
-| 5 | MICRO | IEEE/ACM International Symposium on Microarchitecture | IEEE/ACM微体系结构国际研讨会 | 2024 | Austin, USA | IEEE / ACM SIGMICRO | 创纪录 | 116 | N/A | ~22% | 42 | 36.2% | ⓢ |
+| 4 | HPCA | IEEE International Symposium on High Performance Computer Architecture | IEEE高性能计算机体系结构国际研讨会 | 2025 | Las Vegas, USA | IEEE | N/A | 120 | N/A | N/A | 30 | 25.0% | ⓘ |
+| 5 | MICRO | IEEE/ACM International Symposium on Microarchitecture | IEEE/ACM微体系结构国际研讨会 | 2024 | Austin, USA | IEEE / ACM SIGMICRO | 创纪录 | 113 | N/A | ~22% | 20 | 17.7% | ⓘ |
 | 6 | SC | International Conference for High Performance Computing, Networking, Storage, and Analysis | 国际高性能计算、网络、存储与分析会议 | 2024 | Atlanta, USA | IEEE / ACM | ~18,500 | 109 | ~449 | 22.7% | 45 | 41.3% | ⓢ |
 | 7 | ASPLOS | International Conference on Architectural Support for Programming Languages and Operating Systems | 编程语言与操作系统体系结构支持国际会议 | 2025 | Rotterdam, Netherlands | ACM SIGPLAN/SIGOPS/SIGARCH | N/A | 182 | N/A | N/A | 77 | 38.5% | ⓘ |
 | 8 | ISCA | International Symposium on Computer Architecture | 计算机体系结构国际研讨会 | 2025 | Tokyo, Japan | IEEE / ACM SIGARCH | 1,200+ | 136 | N/A | N/A | 65 | 47.8% | ⓢ |
@@ -62,14 +62,14 @@
 
 | 序号 | 简称 | 英文全称 | 中文名称 | 最近一届 | 举办地点 | 主办机构 | 参与人数 | 录用论文 | 投稿数 | 录用率 | 中国学者论文 (第一作者) | 占比 | 统计方法 |
 |:---:|:---:|:---|:---|:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | PLDI | ACM SIGPLAN Conference on Programming Language Design and Implementation | ACM程序设计语言设计与实现会议 | 2025 | Seoul, South Korea | ACM SIGPLAN | N/A | N/A | N/A | ~21% | N/A | N/A | — |
+| 1 | PLDI | ACM SIGPLAN Conference on Programming Language Design and Implementation | ACM程序设计语言设计与实现会议 | 2025 | Seoul, South Korea | ACM SIGPLAN | N/A | 88 | N/A | ~21% | 7 | 8.0% | ⓘ |
 | 2 | POPL | ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages | ACM程序设计语言原理研讨会 | 2025 | Denver, USA | ACM SIGPLAN/SIGACT | N/A | 79 | 298 | 26.5% | 4 | 5.1% | ⓘ |
-| 3 | FSE | ACM International Conference on the Foundations of Software Engineering | ACM软件工程基础国际会议 | 2025 | Trondheim, Norway | ACM SIGSOFT | N/A | N/A | N/A | N/A | N/A | N/A | — |
-| 4 | SOSP | ACM Symposium on Operating Systems Principles | ACM操作系统原理研讨会 | 2024 | Austin, USA | ACM SIGOPS | N/A | 44 | 248 | 17.3% | 17 | 38.6% | ⓢ |
-| 5 | OOPSLA | Conference on Object-Oriented Programming Systems, Languages, and Applications | 面向对象程序设计系统、语言与应用会议 | 2024 | Pasadena, USA | ACM SIGPLAN | N/A | N/A | N/A | N/A | N/A | N/A | — |
-| 6 | ASE | International Conference on Automated Software Engineering | 自动化软件工程国际会议 | 2024 | Sacramento, USA | IEEE / ACM SIGSOFT | N/A | 267 | 587 | 27.3% | 139 | 52.1% | ⓢ |
+| 3 | FSE | ACM International Conference on the Foundations of Software Engineering | ACM软件工程基础国际会议 | 2025 | Trondheim, Norway | ACM SIGSOFT | N/A | 44 | N/A | N/A | 17 | 38.6% | ⓘ |
+| 4 | SOSP | ACM Symposium on Operating Systems Principles | ACM操作系统原理研讨会 | 2024 | Austin, USA | ACM SIGOPS | N/A | 43 | 248 | 17.3% | 12 | 27.9% | ⓘ |
+| 5 | OOPSLA | Conference on Object-Oriented Programming Systems, Languages, and Applications | 面向对象程序设计系统、语言与应用会议 | 2024 | Pasadena, USA | ACM SIGPLAN | N/A | 116 | N/A | N/A | 19 | 16.4% | ⓘ |
+| 6 | ASE | International Conference on Automated Software Engineering | 自动化软件工程国际会议 | 2024 | Sacramento, USA | IEEE / ACM SIGSOFT | N/A | 104 | 587 | 27.3% | 39 | 37.5% | ⓘ |
 | 7 | ICSE | International Conference on Software Engineering | 国际软件工程会议 | 2025 | Ottawa, Canada | IEEE / ACM SIGSOFT | N/A | 246 | N/A | ~22% | 19 | 7.7% | ⓘ* |
-| 8 | ISSTA | International Symposium on Software Testing and Analysis | 软件测试与分析国际研讨会 | 2024 | Vienna, Austria | ACM SIGSOFT | N/A | 171 | N/A | N/A | 105 | 61.4% | ⓢ |
+| 8 | ISSTA | International Symposium on Software Testing and Analysis | 软件测试与分析国际研讨会 | 2024 | Vienna, Austria | ACM SIGSOFT | N/A | 165 | N/A | N/A | 79 | 47.9% | ⓘ |
 | 9 | OSDI | USENIX Symposium on Operating Systems Design and Implementation | USENIX操作系统设计与实现研讨会 | 2024 | Santa Clara, USA | USENIX Association | N/A | 44 | N/A | ~17% | 13 | 29.5% | ⓘ |
 | 10 | FM | International Symposium on Formal Methods | 形式化方法国际研讨会 | 2024 | Milan, Italy | FME | N/A | 69 | 219 | N/A | 16 | 23.2% | ⓢ |
 
@@ -81,11 +81,11 @@
 
 | 序号 | 简称 | 英文全称 | 中文名称 | 最近一届 | 举办地点 | 主办机构 | 参与人数 | 录用论文 | 投稿数 | 录用率 | 中国学者论文 (第一作者) | 占比 | 统计方法 |
 |:---:|:---:|:---|:---|:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | SIGMOD | ACM SIGMOD Conference | ACM数据管理国际会议 | 2025 | Berlin, Germany | ACM SIGMOD | N/A | 380 | N/A | ~31% | 195 | 51.3% | ⓢ |
-| 2 | SIGKDD | ACM SIGKDD Conference on Knowledge Discovery and Data Mining | ACM知识发现与数据挖掘会议 | 2025 | Toronto, Canada | ACM SIGKDD | N/A | 846 | N/A | ~19% | 491 | 58.0% | ⓢ |
+| 1 | SIGMOD | ACM SIGMOD Conference | ACM数据管理国际会议 | 2025 | Berlin, Germany | ACM SIGMOD | N/A | 434 | N/A | ~31% | 117 | 27.0% | ⓘ |
+| 2 | SIGKDD | ACM SIGKDD Conference on Knowledge Discovery and Data Mining | ACM知识发现与数据挖掘会议 | 2025 | Toronto, Canada | ACM SIGKDD | N/A | 362 | N/A | ~19% | 173 | 47.8% | ⓘ |
 | 3 | ICDE | IEEE International Conference on Data Engineering | IEEE数据工程国际会议 | 2025 | Hong Kong, China | IEEE | N/A | 399 | N/A | ~27% | 111 | 27.8% | ⓘ |
 | 4 | SIGIR | International ACM SIGIR Conference on Research and Development in Information Retrieval | ACM信息检索研究与发展国际会议 | 2025 | Padua, Italy | ACM SIGIR | N/A | 238 | 1,105 | 21.5% | 216 | 39.9% | ⓢ |
-| 5 | VLDB | International Conference on Very Large Data Bases | 超大规模数据库国际会议 | 2025 | London, UK | VLDB Endowment / ACM | N/A | 496 | N/A | ~24% | 237 | 47.8% | ⓢ |
+| 5 | VLDB | International Conference on Very Large Data Bases | 超大规模数据库国际会议 | 2025 | London, UK | VLDB Endowment / ACM | N/A | 295 | N/A | ~24% | 71 | 24.1% | ⓘ |
 
 ---
 
@@ -106,8 +106,8 @@
 | 序号 | 简称 | 英文全称 | 中文名称 | 最近一届 | 举办地点 | 主办机构 | 参与人数 | 录用论文 | 投稿数 | 录用率 | 中国学者论文 (第一作者) | 占比 | 统计方法 |
 |:---:|:---:|:---|:---|:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | ACM MM | ACM International Conference on Multimedia | ACM多媒体国际会议 | 2024 | Melbourne, Australia | ACM SIGMM | N/A | 1,238 | 4,385 | 26% | 970 | 78.4% | ⓢ |
-| 2 | SIGGRAPH | ACM Special Interest Group on Computer Graphics | ACM计算机图形学特别兴趣组年会 | 2025 | Vancouver, Canada | ACM SIGGRAPH | N/A | 175 | 972 | ~13.6% | 99 | 56.6% | ⓢ |
-| 3 | VR | IEEE Conference on Virtual Reality and 3D User Interfaces | IEEE虚拟现实与3D用户界面会议 | 2025 | Saint-Malo, France | IEEE | ~1,200 | 76 | N/A | N/A | 2 | 2.6% | ⓘ |
+| 2 | SIGGRAPH | ACM Special Interest Group on Computer Graphics | ACM计算机图形学特别兴趣组年会 | 2025 | Vancouver, Canada | ACM SIGGRAPH | N/A | 175 | 972 | ~13.6% | 30/85可查 | 35.3%† | ⓘ† |
+| 3 | VR | IEEE Conference on Virtual Reality and 3D User Interfaces | IEEE虚拟现实与3D用户界面会议 | 2025 | Saint-Malo, France | IEEE | ~1,200 | 76 | N/A | N/A | 13 | 19.7% | ⓘ |
 | 4 | IEEE VIS | IEEE Visualization Conference | IEEE可视化会议 | 2024 | St. Pete Beach, USA | IEEE | N/A | 124 | 557 | 23.2% | 13 | 10.5% | ⓢ |
 
 ---
@@ -174,22 +174,34 @@
 | 2 | USENIX ATC | 101 | 60 | **59.4%** | ⓘ |
 | 3 | EuroSys | 86 | 50 | **58.1%** | ⓘ |
 | 4 | PPoPP | 51 | 27 | **52.9%** | ⓘ |
-| 5 | NSDI | 83 | 35 | **42.2%** | ⓘ |
-| 6 | FAST | 36 | 16 | **44.4%** | ⓘ |
-| 7 | ASPLOS | 182 | 77 | **38.5%** | ⓘ |
-| 8 | NDSS | 211 | 68 | **32.2%** | ⓘ |
-| 9 | CCS | 331 | 98 | **29.6%** | ⓘ |
-| 10 | MobiCom | 55 | 18 | **32.7%** | ⓘ |
+| 5 | FAST | 36 | 16 | **44.4%** | ⓘ |
+| 6 | NSDI | 83 | 35 | **42.2%** | ⓘ |
+| 7 | ASE (研究论文) | 104 | 39 | **37.5%** | ⓘ |
+| 8 | FSE | 44 | 17 | **38.6%** | ⓘ |
+| 9 | ASPLOS | 182 | 77 | **38.5%** | ⓘ |
+| 10 | S&P | 256 | 91 | **35.5%** | ⓢ |
 | 11 | SIGCOMM | 74 | 25 | **33.8%** | ⓘ |
-| 12 | OSDI | 44 | 13 | **29.5%** | ⓘ |
-| 13 | CSCW | 140 | 35 | **25.0%** | ⓘ |
-| 14 | ICDE | 399 | 111 | **27.8%** | ⓘ |
+| 12 | NDSS | 211 | 68 | **32.2%** | ⓘ |
+| 13 | MobiCom | 55 | 18 | **32.7%** | ⓘ |
+| 14 | SOSP | 43 | 12 | **27.9%** | ⓘ |
+| 15 | ICDE | 399 | 111 | **27.8%** | ⓘ |
+| 16 | CSCW | 140 | 35 | **25.0%** | ⓘ |
+| 17 | CCS | 331 | 98 | **29.6%** | ⓘ |
+| 18 | OSDI | 44 | 13 | **29.5%** | ⓘ |
+| 19 | OOPSLA | 116 | 19 | **16.4%** | ⓘ |
+| 20 | MICRO | 113 | 20 | **17.7%** | ⓘ |
+| — | HPCA | 120 | 30 | **25.0%** | ⓘ |
+| — | SIGMOD | 434 | 117 | **27.0%** | ⓘ |
+| — | VLDB | 295 | 71 | **24.1%** | ⓘ |
+| — | SIGKDD | 362 | 173 | **47.8%** | ⓘ |
+| — | VR | 76 | 13 | 19.7% | ⓘ |
+| — | PLDI | 88 | 7 | 8.0% | ⓘ |
 | — | EUROCRYPT | 123 | 13 | **10.6%** | ⓘ |
-| — | CRYPTO | 143 | 12 | **8.4%** | ⓘ |
 | — | USENIX Security | 440 | 57 | **13.0%** | ⓘ |
-| — | STOC | 219 | 11 | **5.0%** | ⓘ |
-| — | FOCS | 133 | 5 | **3.8%** | ⓘ |
-| — | VR | 76 | 2 | **2.6%** | ⓘ |
+| — | CRYPTO | 143 | 12 | 8.4% | ⓘ |
+| — | STOC | 219 | 11 | 5.0% | ⓘ |
+| — | POPL | 79 | 4 | 5.1% | ⓘ |
+| — | FOCS | 133 | 5 | 3.8% | ⓘ |
 | — | LICS | 67 | 1 | 1.5% | ⓢ |
 
 ### 主要发现
@@ -201,27 +213,45 @@
 3. **最具选择性**（录用率）：NSDI (12.5%)、MobiCom (~10%)、SIGGRAPH (~13.6%)、S&P (14.8%)、NDSS (16.1%)、SIGCOMM (~16%)
 
 4. **中国学者参与特征**（基于机构核查法 ⓘ）：
-   - **网络与系统类**最高：INFOCOM (62.9%)、USENIX ATC (59.4%)、EuroSys (58.1%)、PPoPP (52.9%)
-   - **数据库/安全类**中等：NDSS (32.2%)、CCS (29.6%)、OSDI (29.5%)
-   - **密码学/理论CS**最低：LICS (1.5%)、FOCS (3.8%)、STOC (5.0%)、CRYPTO (8.4%)、EUROCRYPT (10.6%)
+   - **网络与系统类**最高：INFOCOM (62.9%)、USENIX ATC (59.4%)、EuroSys (58.1%)、PPoPP (52.9%)、ASPLOS (38.5%)
+   - **软件工程类**中等：FSE (38.6%)、ASE (37.5%)、SOSP (27.9%)、OSDI (29.5%)
+   - **安全类**：NDSS (32.2%)、CCS (29.6%)、S&P (35.5%)、USENIX Security (13.0%)
+   - **密码学/理论CS**最低：LICS (1.5%)、FOCS (3.8%)、STOC (5.0%)、POPL (5.1%)、CRYPTO (8.4%)
 
-5. **两种统计方法对比**：
-   - ⓢ姓氏法通常高于ⓘ机构法约10–20%，差异体现了在海外机构任职的华裔学者比例
-   - 以PPoPP为例：ⓘ 52.9% ≈ ⓢ 52.9%（高度一致），说明PPoPP中国作者绝大多数在国内机构
-   - 以SIGCOMM为例：ⓘ 33.8% vs ⓢ 58.4%（差距较大），说明SIGCOMM存在更多华裔海外学者
+5. **ⓢ姓氏法 vs ⓘ机构法校准对比**（同一会议两种方法比较）：
+
+   | 会议 | ⓘ机构法（实际） | ⓢ姓氏法（估算） | 差值 |
+   |:---|:---:|:---:|:---:|
+   | SOSP 2024 | 27.9% | 38.6% | -10.7% |
+   | MICRO 2024 | 17.7% | 36.2% | **-18.5%** |
+   | HPCA 2025 | 25.0% | 41.8% | **-16.8%** |
+   | ASE 2024 | 37.5% | 52.1% | -14.6% |
+   | OOPSLA 2024 | 16.4% | N/A | — |
+   | SIGMOD 2025 | 27.0% | 51.3% | **-24.3%** |
+   | VLDB 2025 | 24.1% | 47.8% | **-23.7%** |
+   | SIGKDD 2025 | 47.8% | 58.0% | -10.2% |
+   | VR 2025 | 19.7% | 27.6% | -7.9% |
+   | PPoPP 2025 | 52.9% | 52.9% | ≈0%（高一致）|
+   | SIGCOMM 2025 | 33.8% | 58.4% | **-24.6%** |
+   | EuroSys 2025 | 58.1% | 67.4% | -9.3% |
+   
+   **结论**：ⓢ姓氏法平均高估约 **10–20%**，对体系结构类（MICRO）和网络类（SIGCOMM）高估最为明显，这些领域海外华裔学者比例较高。对以国内机构为主的会议（如PPoPP）误差很小。仍标注ⓢ的会议实际中国机构占比建议下调10–20%作为参考。
 
 ### 数据来源与方法
 
-| 统计方法 | 覆盖会议 | 说明 |
+| 统计方法 | 覆盖会议数 | 说明 |
 |:---|:---:|:---|
-| ⓘ 机构核查（Playwright + 会议官网） | 约30个 | 直接访问各会议接受论文页面，关键词匹配第一作者机构名 |
-| ⓢ DBLP姓氏匹配 | 约28个 | DBLP TOC API + 100+中文姓氏拼音词库，匹配第一作者姓名 |
-| 两者均可用时 | — | 优先使用ⓘ机构核查数据 |
+| ⓘ 机构核查（会议官网/proceedings页面） | ~43个 | 直接解析第一作者所属机构名，匹配中国大陆/港澳台机构关键词 |
+| ⓢ DBLP姓氏匹配 | ~15个 | DBLP TOC API + 100+中文姓氏拼音词库；包含海外华裔，高估约10–25% |
+| ⓘ†（部分可查） | SIGGRAPH 2025 | 官网仅部分论文列出所属机构，统计覆盖85/175篇 |
+| ⓘ（全程序页面） | SIGMOD 2025 | 使用program_full_detail.shtml覆盖全部434篇论文（含各周期） |
 
 **数据局限性**：
-- ⓘ 法依赖会议网站内容格式，部分会议因ACM DL等平台的JavaScript渲染机制无法访问（标注N/A）
-- ⓢ 法将海外华裔作者也纳入统计，高估了"第一作者机构在中国"的论文数量
+- ⓘ 法依赖会议网站页面格式，部分会议因JavaScript渲染或网络限制无法访问
+- ⓢ 法包含在海外机构任职的华裔学者，高估"第一作者机构在中国"的比例
 - 参与人数（报名人数）大多数会议未公开披露，标注N/A
-- 大型AI会议（CVPR, NeurIPS等）因数据量庞大，目前仅有ⓢ姓氏匹配数据
+- 大型AI会议（CVPR, NeurIPS, AAAI等）因论文量庞大（3000+），目前仅有ⓢ姓氏估算数据
+
+† SIGGRAPH 2025的ⓘ数据基于官网可查的85篇（共175篇），30篇来自中国机构（35.3%）；其余~90篇机构信息网页未完整列出，实际占比参考ⓢ估算（56.6%）与此结果综合判断约为40–50%。
 
 **参考资源**：会议官网、DBLP (dblp.org)、OpenAccept (openaccept.org)、Paper Copilot (papercopilot.com)

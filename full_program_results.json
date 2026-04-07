@@ -1,0 +1,2318 @@
+{
+  "SIGMOD full program": {
+    "total": 434,
+    "cn": 117,
+    "pct": 27.0,
+    "papers": [
+      {
+        "t": "Workshop Chairs",
+        "affil": "Tufts University",
+        "cn": false
+      },
+      {
+        "t": "Ryan Marcus, Department of Computer Science, University of P",
+        "affil": "part 1",
+        "cn": false
+      },
+      {
+        "t": "Location: Bellevue",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "Organizers",
+        "affil": "University of Twente",
+        "cn": false
+      },
+      {
+        "t": "Subru Krishnan, Microsoft, Spain",
+        "affil": "part 2",
+        "cn": false
+      },
+      {
+        "t": "Prepare for an electrifying session that will shatter conven",
+        "affil": "University of Washington",
+        "cn": false
+      },
+      {
+        "t": "Theoretical Powerhouse: Can information-theoretic guaranteed",
+        "affil": "University of Zurich",
+        "cn": false
+      },
+      {
+        "t": "Machine Learning Revolution: Is AI the future of query optim",
+        "affil": "Technical University of Darmstadt",
+        "cn": false
+      },
+      {
+        "t": "Real-World Systems: What actually works?",
+        "affil": "Technical University of Munich",
+        "cn": false
+      },
+      {
+        "t": "Filling in the Gaps: What we don't talk about in research.",
+        "affil": "Microsoft Research",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Benny Kimelfeld",
+        "affil": "Virginia Vassilevska Williams",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Nicole Schweikardt",
+        "affil": "University of Bayreuth",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Andreas Pieris",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Wolfgang Gatterbauer",
+        "affil": "Department of Computer Sciences, University of Wisconsin-Madison",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Bas Ketsman",
+        "affil": "University of Illinois Chicago",
+        "cn": false
+      },
+      {
+        "t": "Session chair: NN",
+        "affil": "Christos H. Papadimitriou",
+        "cn": false
+      },
+      {
+        "t": "Abstract: My previous talk at SIGMOD/PODS happened exactly t",
+        "affil": "1976",
+        "cn": false
+      },
+      {
+        "t": "P3: An Improved Fully Dynamic Algorithm for Counting 4-Cycle",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "P4: Insert-Only versus Insert-Delete in Dynamic Query Evalua",
+        "affil": "RelationalAI, Inc",
+        "cn": false
+      },
+      {
+        "t": "P5: Towards Update-Dependent Analysis of Query Maintenance",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "P6: Fast Matrix Multiplication meets the Submodular Width",
+        "affil": "RelationalAI",
+        "cn": false
+      },
+      {
+        "t": "P7: Circuits and Formulas for Datalog over Semirings",
+        "affil": "Department of Computer Sciences, University of Wisconsin-Madison",
+        "cn": false
+      },
+      {
+        "t": "P8: Improved Approximation Algorithms for Relational Cluster",
+        "affil": "University of Illinois Chicago",
+        "cn": false
+      },
+      {
+        "t": "P9: A Lower Bound on Unambiguous Context Free Grammars via C",
+        "affil": "Univ. Artois, CNRS, Centre de Recherche en Informatique de Lens (CRIL",
+        "cn": false
+      },
+      {
+        "t": "P13: Smallest Synthetic Witnesses for Conjunctive Queries",
+        "affil": "University of Illinois Chicago",
+        "cn": false
+      },
+      {
+        "t": "P14: Towards Tractability of the Diversity of Query Answers:",
+        "affil": "PUC Chile",
+        "cn": false
+      },
+      {
+        "t": "P15: Computing A Well-Representative Summary of Conjunctive ",
+        "affil": "Duke University",
+        "cn": false
+      },
+      {
+        "t": "P16: Resilience for Regular Path Queries: Towards a Complexi",
+        "affil": "Inria Lille",
+        "cn": false
+      },
+      {
+        "t": "P17: Soft and Constrained Hypertree Width",
+        "affil": "TU Wien",
+        "cn": false
+      },
+      {
+        "t": "P18: Efficient Algorithms for Cardinality Estimation and Con",
+        "affil": "University of California, Merced",
+        "cn": false
+      },
+      {
+        "t": "P21: Optimal Dynamic Parameterized Subset Sampling",
+        "affil": "The University of Melbourne",
+        "cn": false
+      },
+      {
+        "t": "P22: Perfect Sampling in Turnstile Streams Beyond Small Mome",
+        "affil": "Carnegie Mellon University",
+        "cn": false
+      },
+      {
+        "t": "P23: Robust Statistical Analysis on Streaming Data with Near",
+        "affil": "Indiana University Bloomington",
+        "cn": false
+      },
+      {
+        "t": "P24: Efficient Algorithms for k-Clustering with Noisy and Ex",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "P25: On the adversarial robustness of Locality-Sensitive Has",
+        "affil": "EPFL",
+        "cn": false
+      },
+      {
+        "t": "P26: A Theoretical Framework for Distribution-Aware Dataset ",
+        "affil": "University of Illinois Chicago",
+        "cn": false
+      },
+      {
+        "t": "P27: Private Synthetic Data Generation in Small Memory",
+        "affil": "CSIRO's Data61",
+        "cn": false
+      },
+      {
+        "t": "P28: Fully Dynamic Algorithms for Graph Databases with Edge ",
+        "affil": "Boston University",
+        "cn": false
+      },
+      {
+        "t": "P29: Optimal Bounds for Private Minimum Spanning Trees via I",
+        "affil": "University of Copenhagen",
+        "cn": false
+      },
+      {
+        "t": "P30: Differentially Private Hierarchical Heavy Hitters",
+        "affil": "University of Warwick",
+        "cn": false
+      },
+      {
+        "t": "P32: Parallel Communication Obliviousness: One Round and Bey",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "P33: Revisiting Weighted Information Extraction: A Simpler a",
+        "affil": "University of Wroclaw",
+        "cn": false
+      },
+      {
+        "t": "P34: Output-Sensitive Evaluation of Regular Path Queries",
+        "affil": "RelationalAI",
+        "cn": false
+      },
+      {
+        "t": "P35: The Complexity of Maximal Common Subsequence Enumeratio",
+        "affil": "Università di Pisa",
+        "cn": false
+      },
+      {
+        "t": "P36: Towards practical FPRAS for #NFA: Exploiting the Power ",
+        "affil": "Algorithms and Complexity Group, TU Wien",
+        "cn": false
+      },
+      {
+        "t": "P37: Complex event recognition meets hierarchical conjunctiv",
+        "affil": "Pontificia Universidad Católica de Chile",
+        "cn": false
+      },
+      {
+        "t": "P38: Complex event recognition under time constraints: towar",
+        "affil": "Pontificia Universidad Católica de Chile",
+        "cn": false
+      },
+      {
+        "t": "P39: Restricted Chase Termination: You Want More than Fairne",
+        "affil": "LIRMM, Inria, University of Montpellier, CNRS",
+        "cn": false
+      },
+      {
+        "t": "P40: No Cliques Allowed: The Next Step Towards BDD/FC Conjec",
+        "affil": "DI ENS",
+        "cn": false
+      },
+      {
+        "t": "P41: Polynomial Time Convergence of the Iterative Evaluation",
+        "affil": "University of California, Merced",
+        "cn": false
+      },
+      {
+        "t": "P42: Below and Above Why-Provenance for Datalog Queries",
+        "affil": "University of Milano",
+        "cn": false
+      },
+      {
+        "t": "P43: Rewriting Consistent Answers on Annotated Data",
+        "affil": "University of California Santa Cruz and IBM Research",
+        "cn": false
+      },
+      {
+        "t": "P44: Computing Range Consistent Answers to Aggregation Queri",
+        "affil": "University of Mons",
+        "cn": false
+      },
+      {
+        "t": "1: Extending SQL to Return a Subdatabase",
+        "affil": " Saarland University, Saarland Informatics Campus",
+        "cn": false
+      },
+      {
+        "t": "2: MAST: Towards Efficient Analytical Query Processing on Po",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "3: Rethinking The Compaction Policies in LSM-trees",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "4: OBIR-tree: Secure and Efficient Oblivious Index for Spati",
+        "affil": "Xidian University",
+        "cn": false
+      },
+      {
+        "t": "5: Fast and Scalable Data Transfer across Data Systems",
+        "affil": "Technische Universität Berlin",
+        "cn": false
+      },
+      {
+        "t": "6: cuMatch: A GPU-based memory-efficient worst-case optimal ",
+        "affil": "KAIST",
+        "cn": false
+      },
+      {
+        "t": "7: Mnemosyne: Dynamic Workload-Aware BF Tuning via Accurate ",
+        "affil": "Boston University",
+        "cn": false
+      },
+      {
+        "t": "8: DiskGNN: Bridging I/O Efficiency and Model Accuracy for O",
+        "affil": "Southern University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "9: Practical and Asymptotically Optimal Quantization of High",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "10: Minimum Spanning Tree Maintenance in Dynamic Graphs",
+        "affil": "University of Technology Sydney",
+        "cn": false
+      },
+      {
+        "t": "11: Multivariate Time Series Cleaning under Speed Constraint",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "12: DIGRA: A Dynamic Graph Indexing for Approximate Nearest ",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "13: Accelerating Skyline Path Enumeration with a Core Attrib",
+        "affil": "Chinese University of Hong Kong, Shenzhen",
+        "cn": true
+      },
+      {
+        "t": "14: SHARQ: Explainability Framework for Association Rules on",
+        "affil": "Bar-Ilan University",
+        "cn": false
+      },
+      {
+        "t": "15: On Graph Representation for Attributed Hypergraph Cluste",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "16: Aster: Enhancing LSM-structures for Scalable Graph Datab",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "17: Agree to Disagree: Robust Anomaly Detection with Noisy L",
+        "affil": "Worcester Polytechnic Institute",
+        "cn": false
+      },
+      {
+        "t": "18: Yannakakis+: Practical Acyclic Query Evaluation with The",
+        "affil": "Hong Kong Baptist University",
+        "cn": true
+      },
+      {
+        "t": "19: Efficiently Counting Triangles in Large Temporal Graphs",
+        "affil": "The Chinese University of Hong Kong, Shenzhen",
+        "cn": true
+      },
+      {
+        "t": "20: Wait and See: A Delayed Transactions Partitioning Approa",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "21: GIDCL: A Graph-Enhanced Interpretable Data Cleaning Fram",
+        "affil": "Beihang University",
+        "cn": true
+      },
+      {
+        "t": "22: Finding Logic Bugs in Spatial Database Engines via Affin",
+        "affil": "East China Normal University",
+        "cn": true
+      },
+      {
+        "t": "23: Rapid Data Ingestion through DB-OS Co-design",
+        "affil": "Seoul National University",
+        "cn": false
+      },
+      {
+        "t": "24: Memento Filter: A Fast, Dynamic, and Robust Range Filter",
+        "affil": "University of Toronto",
+        "cn": false
+      },
+      {
+        "t": "25: Navigating Labels and Vectors: A Unified Approach to Fil",
+        "affil": "Fudan University",
+        "cn": true
+      },
+      {
+        "t": "26: Tao: Improving Resource Utilization while Guaranteeing S",
+        "affil": "Southern University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "27: An Elephant Under the Microscope: Analyzing the Interact",
+        "affil": "Technische Universität Dresden",
+        "cn": false
+      },
+      {
+        "t": "28: Revisiting Graph Analytics Benchmarks",
+        "affil": "East China Normal University",
+        "cn": true
+      },
+      {
+        "t": "29: Multi-Level Graph Representation Learning Through Predic",
+        "affil": "Seoul National University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "30: B-Trees Are Back: Engineering Fast and Pageable Node Lay",
+        "affil": "Technische Universität München",
+        "cn": false
+      },
+      {
+        "t": "32: Largest Triangle Sampling for Visualizing Time Series in",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "33: SpareLLM: Automatically Selecting Task-Specific Minimum-",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "34: Femur: A Flexible Framework for Fast and Secure Querying",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "35: Nezha: An Efficient Distributed Graph Processing System ",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "36: Fast Approximate Similarity Join in Vector Databases",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "37: Efficient and Accurate PageRank Approximation on Large G",
+        "affil": "Shenzhen University",
+        "cn": true
+      },
+      {
+        "t": "38: SWASH: A Flexible Communication Framework with Sliding W",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "39: Efficient Dynamic Indexing for Range Filtered Approximat",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "40: Pneuma: Leveraging LLMs for Tabular Data Representation ",
+        "affil": "University of Indonesia",
+        "cn": false
+      },
+      {
+        "t": "41: AJOSC: Adaptive join order selection for continuous quer",
+        "affil": "Peking University",
+        "cn": true
+      },
+      {
+        "t": "42: Cache-Craft: Managing Chunk-Caches for Efficient Retriev",
+        "affil": "Adobe Research",
+        "cn": false
+      },
+      {
+        "t": "43: SPID-Join: A Skew-resistant Processing-in-DIMM Join Algo",
+        "affil": "Yonsei University",
+        "cn": false
+      },
+      {
+        "t": "44: DFlush: DPU-Offloaded Flush for Disaggregated LSM-based ",
+        "affil": "Huazhong University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "135: A Rank-Based Approach to Recommender System's Top-K Que",
+        "affil": "Technion - Israel Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "Demonstrating CatDB: LLM-based Generation of Data-centric ML",
+        "affil": "Concordia University",
+        "cn": false
+      },
+      {
+        "t": "D-Bot: An LLM-Powered DBA Copilot",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "Demonstrating SQLBarber: Leveraging Large Language Models to",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "DANTE: Hybrid AI System for Context-Aware Interpretable Feat",
+        "affil": "Université Paris Cité, LIPADE, SAP Labs Paris",
+        "cn": false
+      },
+      {
+        "t": "RTS+: Reliable Text to SQL",
+        "affil": "university of Toronto",
+        "cn": false
+      },
+      {
+        "t": "SwellDB: Dynamic Query-Driven Table Generation with Large La",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "Database as Runtime: Compiling LLMs to SQL for In-database M",
+        "affil": "Delft University of Technology",
+        "cn": false
+      },
+      {
+        "t": "Prompt Editor: A Taxonomy-driven System for Guided LLM Promp",
+        "affil": "Celonis Inc.",
+        "cn": false
+      },
+      {
+        "t": "DataDazzle: Intelligent Data Exploration through Natural Lan",
+        "affil": "Athena R.C.",
+        "cn": false
+      },
+      {
+        "t": "ScaleLLM: A technique for scalable LLM-augmented data system",
+        "affil": "University of Pennsylvania",
+        "cn": false
+      },
+      {
+        "t": "PalimpChat: Declarative and Interactive AI analytics",
+        "affil": "Jataware",
+        "cn": false
+      },
+      {
+        "t": "UNITQA: A Unified Automated Tabular Question Answering Syste",
+        "affil": "East China Normal University &, PingCAP",
+        "cn": true
+      },
+      {
+        "t": "LLM-Matcher: a Name-Based Schema Matching Tool using Large L",
+        "affil": "Hasselt University",
+        "cn": false
+      },
+      {
+        "t": "Sentence to Model: Cost-Effective Data Collection LLM Agent",
+        "affil": "Tel Aviv University",
+        "cn": false
+      },
+      {
+        "t": "OmniTune: A universal framework for query refinement via LLM",
+        "affil": "Bar-Ilan University",
+        "cn": false
+      },
+      {
+        "t": "Real Time Sentinel &ndash, An LLM Based PII detector",
+        "affil": "Striim Inc.",
+        "cn": false
+      },
+      {
+        "t": "Andromeda: Debugging Database Performance Issues with Retrie",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "Session chairs: Alfons Kemper, Walid G. Aref",
+        "affil": "Hong Kong University of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "Session chairs: Theodoros Chondrogiannis, Junhao Gan",
+        "affil": "Fudan University",
+        "cn": true
+      },
+      {
+        "t": "DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-",
+        "affil": "Southern University of Science and Technology, Shenzhen, China",
+        "cn": true
+      },
+      {
+        "t": "A Quantum-Leap into Schema Matching: Beyond 1-to-1 Matchings",
+        "affil": "Humboldt-Universität zu Berlin",
+        "cn": false
+      },
+      {
+        "t": "Eigen+: Memory Over-Subscription for Alibaba Cloud Databases",
+        "affil": "Alibaba Cloud",
+        "cn": true
+      },
+      {
+        "t": "CloudJump II: Optimizing Cloud Databases for Shared Storage ",
+        "affil": "Alibaba Group",
+        "cn": true
+      },
+      {
+        "t": "ABase: The Multi-Tenant NoSQL Serverless Database for Divers",
+        "affil": "ByteDance",
+        "cn": true
+      },
+      {
+        "t": "CockroachDB Serverless: Sub-second scaling from zero with mu",
+        "affil": "Cockroach Labs",
+        "cn": false
+      },
+      {
+        "t": "Adaptive and Efficient Log Parsing as a Cloud Service -",
+        "affil": "ByteDance Inc.",
+        "cn": true
+      },
+      {
+        "t": "Paolo Papotti",
+        "affil": "Italy",
+        "cn": false
+      },
+      {
+        "t": "Renée J. Miller",
+        "affil": "PECASE",
+        "cn": false
+      },
+      {
+        "t": "Sihem Amer Yahya",
+        "affil": "at&t and Yahoo! labs",
+        "cn": false
+      },
+      {
+        "t": "ChARLES: Change-Aware Recovery of Latent Evolution Semantics",
+        "affil": "University of Utah",
+        "cn": false
+      },
+      {
+        "t": "Locator: Local Stability for Rankings",
+        "affil": "Ben-Gurion University of the Negev",
+        "cn": false
+      },
+      {
+        "t": "Catching up with Disorder: Dynamic Graphs with Out-of-Order ",
+        "affil": "INRIA",
+        "cn": false
+      },
+      {
+        "t": "SecUREmatch: Integrating Clerical Review in Privacy-Preservi",
+        "affil": "University of Leipzig",
+        "cn": false
+      },
+      {
+        "t": "Qymera: Simulating Quantum Circuits using RDBMS",
+        "affil": "TU Delft",
+        "cn": false
+      },
+      {
+        "t": "Finding What You're Looking For: A Distribution-Aware Datase",
+        "affil": "Technische Universität Berlin",
+        "cn": false
+      },
+      {
+        "t": "Mobility Stream Processing on NebulaStream and MEOS",
+        "affil": "Universite libre de Bruxelles",
+        "cn": false
+      },
+      {
+        "t": "Grafixer: Enabling User-Centric Repairs for Property Graphs",
+        "affil": "Lyon 1 University",
+        "cn": false
+      },
+      {
+        "t": "Apache Wayang in Action: Enabling Data Systems Integration v",
+        "affil": "IIT Dehli",
+        "cn": false
+      },
+      {
+        "t": "LpBound in Action: Cardinality Estimation with One-Sided Gua",
+        "affil": "University of Zurich",
+        "cn": false
+      },
+      {
+        "t": "ShapX Engine: A Demonstration of Shapley Value Approximation",
+        "affil": "Ohio State University",
+        "cn": false
+      },
+      {
+        "t": "Doctopus: A System for Budget-aware Structural Data Extracti",
+        "affil": "Beijing Institude of Technology",
+        "cn": true
+      },
+      {
+        "t": "Demo of Kishu: Time-Traveling for Computational Notebooks",
+        "affil": "University of Illinois at Urbana-Champaign",
+        "cn": false
+      },
+      {
+        "t": "NeutronRAG: Towards Understanding the Effectiveness of RAG f",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "MiniClean: A Single-Machine System for Cleaning Big Graphs",
+        "affil": "Southeast University",
+        "cn": false
+      },
+      {
+        "t": "CausaLens: A System for Summarizing Causal DAGs",
+        "affil": "Technion",
+        "cn": false
+      },
+      {
+        "t": "OIE: An Interpretable System for Outlier Explanation and Sum",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "Graph-Based Vector Search: An Experimental Evaluation of the",
+        "affil": "Mohammed VI Polytechnic University",
+        "cn": false
+      },
+      {
+        "t": "Subspace Collision: An Efficient and Accurate Framework for ",
+        "affil": "Institute of Computing Technology, Chinese Academy of Sciences",
+        "cn": true
+      },
+      {
+        "t": "MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approxi",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Essam Mansour, Kexin Rong",
+        "affil": "Shanghai Jiao Tong University",
+        "cn": true
+      },
+      {
+        "t": "Session chair: Cristian Riveros",
+        "affil": "The University of Melbourne",
+        "cn": false
+      },
+      {
+        "t": "Robust Statistical Analysis on Streaming Data with Near-Dupl",
+        "affil": "Indiana University Bloomington",
+        "cn": false
+      },
+      {
+        "t": "MaLT: A Framework for Managing Large Transactions in OceanBa",
+        "affil": "OceanBase, Ant Group",
+        "cn": false
+      },
+      {
+        "t": "Managed Resource Scaling in Amazon EMR -",
+        "affil": "Amazon Web Services",
+        "cn": false
+      },
+      {
+        "t": "TXSQL: Lock Optimizations Towards High Contented Workloads -",
+        "affil": "Tencent Inc.",
+        "cn": true
+      },
+      {
+        "t": "SAP HANA Cloud: Data Management for Modern Enterprise Applic",
+        "affil": "TU Dresden",
+        "cn": false
+      },
+      {
+        "t": "Enterprise Application-Database Co-Innovation for Hybrid Tra",
+        "affil": "SAP Labs Korea",
+        "cn": false
+      },
+      {
+        "t": "Flux: Unifying Heterogeneous Infrastructure for Alibaba Anal",
+        "affil": "Alibaba Cloud",
+        "cn": true
+      },
+      {
+        "t": "Session chairs: Fatemeh Nargesian, Andreas Kipf",
+        "affil": "DFKI Darmstadt & TU Darmstadt",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Arijit Khan, Donatella Firmani",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "A Lovász-Simonovits Theorem for Hypergraphs with Application",
+        "affil": "Indian Institute of Technology Delhi",
+        "cn": false
+      },
+      {
+        "t": "Analytics is a fast-changing space with customers seeking to",
+        "affil": "inc. Best Newcomer Award",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Dan Suciu",
+        "affil": "CSIRO's Data61",
+        "cn": false
+      },
+      {
+        "t": "Location: Potsdam I & III",
+        "affil": "Everything a Database Person really needs to know about Machine Learning",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Suyash Gupta, Peter Boncz",
+        "affil": "honorable mention for best research paper",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Nikos Mamoulis, Philippe Bonnet",
+        "affil": "Humboldt-UniversitÃ¤t zu Berlin",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Yannis Chronis",
+        "affil": "AlayaDB AI",
+        "cn": false
+      },
+      {
+        "t": "Panelists:",
+        "affil": "CNRS, LIG, Vice President of VLDB Endowment",
+        "cn": false
+      },
+      {
+        "t": "Lower Bounds for Conjunctive Query Evaluation -",
+        "affil": "Univ. Artois, CNRS, Centre de Recherche en Informatique de Lens (CRIL",
+        "cn": false
+      },
+      {
+        "t": "Parallel Communication Obliviousness: One Round and Beyond -",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "Session chairs: Ibrahim Sabek, Jia Zou",
+        "affil": "honorable mention for best research paper",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Graham Cormode, Kaustubh Beedkar",
+        "affil": "Arizona State University",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Sainyam Galhotra",
+        "affil": "Huawei & SJTU",
+        "cn": true
+      },
+      {
+        "t": "Session chair: Jef Wijsen",
+        "affil": "Pontificia Universidad Católica de Chile",
+        "cn": false
+      },
+      {
+        "t": "46: Serf: Streaming Error-Bounded Floating-Point Compression",
+        "affil": "Chongqing University",
+        "cn": false
+      },
+      {
+        "t": "47: High-Throughput Ingestion for Video Warehouse: Comprehen",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "48: In-Database Time Series Clustering",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "49: Tribase: A Vector Data Query Engine for Reliable and Los",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "50: Auto-Test: Learning Semantic-Domain Constraints for Unsu",
+        "affil": "HKUST",
+        "cn": true
+      },
+      {
+        "t": "51: Personalized Truncation for Personalized Privacy",
+        "affil": "Hong Kong University of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "52: Faster and Efficient Density Decomposition via Proportio",
+        "affil": "the University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "53: PDX: A Data Layout for Vector Similarity Search",
+        "affil": "Technische Universität München",
+        "cn": false
+      },
+      {
+        "t": "54: Malleus: Straggler-Resilient Hybrid Parallel Training of",
+        "affil": "Peking University",
+        "cn": true
+      },
+      {
+        "t": "55: Camel: Efficient Compression of Floating-Point Time Seri",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "56: SecureXGB: A Secure and Efficient Multi-party Protocol f",
+        "affil": "Beijing University of Posts and Telecommunications",
+        "cn": true
+      },
+      {
+        "t": "57: Graph Edit Distance Estimation: A New Heuristic and A Ho",
+        "affil": "The University of Sydney",
+        "cn": false
+      },
+      {
+        "t": "58: Pluto: Sample Selection for Robust Anomaly Detection on ",
+        "affil": "University of Arizona",
+        "cn": false
+      },
+      {
+        "t": "59: Directional Queries: Making Top-k Queries More Effective",
+        "affil": "Università di Bologna",
+        "cn": false
+      },
+      {
+        "t": "60: Automatic Database Configuration Debugging using Retriev",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "61: Relevance queries for interval data",
+        "affil": "Johannes Gutenberg University Mainz",
+        "cn": false
+      },
+      {
+        "t": "62: Disco: A Compact Index for LSM-trees",
+        "affil": "University of Illinois at Chicago",
+        "cn": false
+      },
+      {
+        "t": "63: InTime: Towards Performance Predictability In Byzantine ",
+        "affil": "The Hong Kong University of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "64: Atom: An Efficient Query Serving System for Embedding-ba",
+        "affil": "CUHK",
+        "cn": true
+      },
+      {
+        "t": "65: MatCo: Computing Match Cover of Subgraph Query over Grap",
+        "affil": "Hunan University",
+        "cn": false
+      },
+      {
+        "t": "66: U-DPAP: Utility-aware Efficient Range Counting on Privac",
+        "affil": "Central China Normal University",
+        "cn": true
+      },
+      {
+        "t": "67: Shapley Value Estimation based on Differential Matrix",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "69: GTX: A Write-Optimized Latch-free Graph Data System with",
+        "affil": "Purdue University",
+        "cn": false
+      },
+      {
+        "t": "70: Online Detection of Anomalies in Temporal Knowledge Grap",
+        "affil": "University of Electronic Science and Technology of China",
+        "cn": true
+      },
+      {
+        "t": "71: Styx: Transactional Stateful Functions on Streaming Data",
+        "affil": "TU Delft",
+        "cn": false
+      },
+      {
+        "t": "72: Accelerating Graph Indexing for ANNS on Modern CPUs",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "73: On the Feasibility and Benefits of Extensive Evaluation",
+        "affil": "The Ohio State University",
+        "cn": false
+      },
+      {
+        "t": "74: Approximate DBSCAN under Differential Privacy",
+        "affil": "Hong Kong Univ. of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "75: Data Enhancing for Machine Learning",
+        "affil": "Univ. of Edinburgh",
+        "cn": false
+      },
+      {
+        "t": "76: User-Centric Property Graph Repairs",
+        "affil": "Lyon 1 University",
+        "cn": false
+      },
+      {
+        "t": "77: Cardinality Estimation of LIKE Predicate Queries using D",
+        "affil": "Seoul National University",
+        "cn": false
+      },
+      {
+        "t": "78: PQCache: Product Quantization-based KVCache for Long Con",
+        "affil": "Peking University",
+        "cn": true
+      },
+      {
+        "t": "79: Connectivity-Oriented Property Graph Partitioning for Di",
+        "affil": "Hunan University",
+        "cn": false
+      },
+      {
+        "t": "80: HyperMR: Efficient Hypergraph-enhanced Matrix Storage on",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "81: PLM4NDV: Minimizing Data Access for Number of Distinct V",
+        "affil": "ByteDance",
+        "cn": true
+      },
+      {
+        "t": "82: An Efficient and Exact Algorithm for Locally h-Clique De",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "83: Understanding and Reusing Test Suites Across Database Sy",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "84: OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-s",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "85: Density Decomposition of Bipartite Graphs",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "86: Schema-Based Query Optimisation for Graph Databases",
+        "affil": "INRIA",
+        "cn": false
+      },
+      {
+        "t": "87: SPAS: Continuous Release of Data Streams under w-Event D",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "88: Efficiently Processing Joins and Grouped Aggregations on",
+        "affil": "ETH Zurich",
+        "cn": false
+      },
+      {
+        "t": "89: HoneyComb: A Parallel Worst-Case Optimal Join on Multico",
+        "affil": "University of Washington",
+        "cn": false
+      },
+      {
+        "t": "90: Ultraverse: A System-Centric Framework for Efficient Wha",
+        "affil": "Ohio State University and Osaka University",
+        "cn": false
+      },
+      {
+        "t": "91: Accelerate Distributed Joins with Predicate Transfer",
+        "affil": "University of Wisconsin, Madison",
+        "cn": false
+      },
+      {
+        "t": "92: BPF-DB: A Kernel-Embedded Transactional Database Managem",
+        "affil": "Carnegie Mellon University",
+        "cn": false
+      },
+      {
+        "t": "93: Athena: An Effective Learning-based Framework for Query ",
+        "affil": "Southern University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "94: Centrum: Model-based Database Auto-tuning with Minimal D",
+        "affil": "Huawei",
+        "cn": true
+      },
+      {
+        "t": "95: Incremental Rule Discovery in Response to Parameter Upda",
+        "affil": "Shanghaitech University",
+        "cn": true
+      },
+      {
+        "t": "96: Data Chunk Compaction in Vectorized Execution",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "97: VEGA: An Active-tuning Learned Index with Group-Wise Lea",
+        "affil": "Nanjing University",
+        "cn": true
+      },
+      {
+        "t": "98: Bursting Flow Query on Large Temporal Flow Networks",
+        "affil": "Hong Kong Baptist University",
+        "cn": true
+      },
+      {
+        "t": "99: Cracking SQL Barriers: An LLM-based Dialect Translation ",
+        "affil": "Shanghai Jiao Tong University",
+        "cn": true
+      },
+      {
+        "t": "100: Maximus: A Modular Accelerated Query Engine for Data An",
+        "affil": "ETH Zurich",
+        "cn": false
+      },
+      {
+        "t": "101: Zombie Hashing: Reanimating Tombstones in Graveyard",
+        "affil": "University of Utah",
+        "cn": false
+      },
+      {
+        "t": "102: Progressive entity resolution: a design space explorati",
+        "affil": "National and Kapodistrian University of Athens",
+        "cn": false
+      },
+      {
+        "t": "103: Fast Maximum Common Subgraph Search: A Redundancy-Reduc",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "104: LICS: Towards Theory-Informed Effective Visual Abstract",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "105: RLOMM: An Efficient and Robust Online Map Matching Fram",
+        "affil": "Beijing University of Posts and Telecommunications",
+        "cn": true
+      },
+      {
+        "t": "106: DISCES: Systematic Discovery of Event Stream Queries",
+        "affil": "Humboldt Universität zu Berlin",
+        "cn": false
+      },
+      {
+        "t": "107: A Profit-Maximizing Data Marketplace with Differentiall",
+        "affil": "Hunan University",
+        "cn": false
+      },
+      {
+        "t": "108: A Structured Study of Multivariate Time-Series Distance",
+        "affil": "Eindhoven University of Technology",
+        "cn": false
+      },
+      {
+        "t": "109: Efficient Approximation Algorithms for Minimum Cost See",
+        "affil": "The Hong Kong Polytechnic University",
+        "cn": true
+      },
+      {
+        "t": "110: Fast Hypertree Decompositions via Linear Programming: F",
+        "affil": "University of California, Santa Barbara",
+        "cn": false
+      },
+      {
+        "t": "111: H-Rocks CPU-GPU accelerated RocksDB on Persistent Memor",
+        "affil": "Indian Institute of Science",
+        "cn": false
+      },
+      {
+        "t": "112: Sequoia: An Accessible and Extensible Framework for Pri",
+        "affil": "HKUST",
+        "cn": true
+      },
+      {
+        "t": "113: SymphonyQG: towards Symphonious Integration of Quantiza",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "114: Efficient Maximum s-Bundle Search via Local Vertex Conn",
+        "affil": "Harbin Institute of Technology, Shenzhen",
+        "cn": true
+      },
+      {
+        "t": "115: A Benchmark for Data Management in Microservices",
+        "affil": "University of Copenhagen",
+        "cn": false
+      },
+      {
+        "t": "116: Randomized Sketches for Quantile in LSM-tree based Stor",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "117: Optimizing LSM-trees via Active Learning",
+        "affil": " Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "118: BCviz: A Linear-Space Index for Mining and Visualizing ",
+        "affil": "Harbin Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "119: Practical DB-OS Co-Design with Privileged Kernel Bypass",
+        "affil": "Massachusetts Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "120: SPARTAN: Data-Adaptive Symbolic Time-Series Approximati",
+        "affil": "The Ohio State University",
+        "cn": false
+      },
+      {
+        "t": "121: Integral Densest Subgraph Search on Directed Graphs",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "122: Using Process Calculus for Optimizing Data and Computat",
+        "affil": "University of Zurich",
+        "cn": false
+      },
+      {
+        "t": "123: MEMO: Fine-grained Tensor Management For Ultra-long Con",
+        "affil": "Peking University",
+        "cn": true
+      },
+      {
+        "t": "124: Common Neighborhood Estimation over Bipartite Graphs un",
+        "affil": "The University of New South Wales",
+        "cn": false
+      },
+      {
+        "t": "125: Learned Offline Query Planning via Bayesian Optimizatio",
+        "affil": "University of Pennsylvania",
+        "cn": false
+      },
+      {
+        "t": "126: Alsatian: Optimizing Model Search for Deep Transfer Lea",
+        "affil": "Hasso Plattner Institute, University of Potsdam",
+        "cn": false
+      },
+      {
+        "t": "127: Theoretically and Practically Efficient Maximum Defecti",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "128: Two Birds with One Stone: Efficient Deep Learning over ",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "129: Galley: Modern Query Optimization for Sparse Tensor Pro",
+        "affil": "University of Washington",
+        "cn": false
+      },
+      {
+        "t": "130: Buffered Persistence in B+ Trees",
+        "affil": "University of Rochester",
+        "cn": false
+      },
+      {
+        "t": "131: An Adaptive Benchmark for Modeling User Exploration of ",
+        "affil": "University of Maryland, College Park",
+        "cn": false
+      },
+      {
+        "t": "132: Credible Intervals for Knowledge Graph Accuracy Estimat",
+        "affil": "Università di Padova",
+        "cn": false
+      },
+      {
+        "t": "133: Divide-and-Conquer: Scalable Shortest Path Counting on ",
+        "affil": "Australian National University",
+        "cn": false
+      },
+      {
+        "t": "134: A Universal Sketch for Estimating Heavy Hitters and Per",
+        "affil": "Southeast University",
+        "cn": false
+      },
+      {
+        "t": "136: Adda: Towards Efficient in-Database Feature Generation ",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "137: HotStuff-1: Linear Consensus with One-Phase Speculation",
+        "affil": "University of California, Davis",
+        "cn": false
+      },
+      {
+        "t": "138: Dangers of List Processing in Querying Property Graphs",
+        "affil": "Université de Paris, IRIF",
+        "cn": false
+      },
+      {
+        "t": "139: Understanding the Black Box: A Deep Empirical Dive into",
+        "affil": "Ohio State University",
+        "cn": false
+      },
+      {
+        "t": "140: Parallel kd-tree with Batch Updates",
+        "affil": "UC Riverside",
+        "cn": false
+      },
+      {
+        "t": "141: Computing Approximate Graph Edit Distance via Optimal T",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "142: Scalable Complex Event Processing on Video Streams",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "143: Modyn: Data-Centric Machine Learning Pipeline Orchestra",
+        "affil": "ETH Zurich",
+        "cn": false
+      },
+      {
+        "t": "144: FastPDB: Towards Bag-Probabilistic Queries at Interacti",
+        "affil": "SUNY Buffalo",
+        "cn": false
+      },
+      {
+        "t": "145: RLER-TTE: An Efficient and Effective Framework for En R",
+        "affil": "Beijing University of Posts and Telecommunications",
+        "cn": true
+      },
+      {
+        "t": "146: Revisiting the Design of In-Memory Dynamic Graph Storag",
+        "affil": "Shanghai Jiao Tong University",
+        "cn": true
+      },
+      {
+        "t": "147: PilotDB: Database-Agnostic Online Approximate Query Pro",
+        "affil": "University of Illinois Urbana-Champaign",
+        "cn": false
+      },
+      {
+        "t": "148: High-Performance Query Processing with NVMe Arrays: Spi",
+        "affil": "Technische Universität München",
+        "cn": false
+      },
+      {
+        "t": "149: ISSD: Indicator Selection for Time Series State Detecti",
+        "affil": "NUDT",
+        "cn": false
+      },
+      {
+        "t": "150: TableDC: Deep Clustering for Tabular Data",
+        "affil": "The University of Manchester",
+        "cn": false
+      },
+      {
+        "t": "151: Clementi: Efficient Load Balancing and Communication Ov",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "152: Dialogue Benchmark Generation from Knowledge Graphs wit",
+        "affil": "Concordia University",
+        "cn": false
+      },
+      {
+        "t": "154: GABoost: Graph Alignment Boosting via Local Optimum Esc",
+        "affil": "Peking University",
+        "cn": true
+      },
+      {
+        "t": "155: Federated Heavy Hitter Analytics with Local Differentia",
+        "affil": "The Hong Kong Polytechnic University",
+        "cn": true
+      },
+      {
+        "t": "156: RWalks: Random Walks as Attribute Diffusers for Filtere",
+        "affil": "Mohammed VI Polytechnic University",
+        "cn": false
+      },
+      {
+        "t": "157: Dupin: A Parallel Framework for Densest Subgraph Discov",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "158: Fair and Actionable Causal Prescription Ruleset",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "159: Robust Privacy-Preserving Triangle Counting under Edge ",
+        "affil": "The University of New South Wales",
+        "cn": false
+      },
+      {
+        "t": "160: Parallel $k$-Core Decomposition: Theory and Practice",
+        "affil": "University of California, Riverside",
+        "cn": false
+      },
+      {
+        "t": "161: CARINA: An Efficient CXL-Oriented Embedding Serving Sys",
+        "affil": "The Chinese University of Hong Kong",
+        "cn": true
+      },
+      {
+        "t": "162: DataVinci: Learning Syntactic and Semantic String Repai",
+        "affil": "Microsoft",
+        "cn": false
+      },
+      {
+        "t": "163: AquaPipe: A Quality-Aware Pipeline for Knowledge Retrie",
+        "affil": "Huazhong University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "164: PrivPetal: Relational Data Synthesis via Permutation Re",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "165: RM^2: Answer Counting Queries Efficiently under Shuffle",
+        "affil": "OceanBase, Ant Group",
+        "cn": false
+      },
+      {
+        "t": "166: Vectorizing Distributed Graph Computations made Automat",
+        "affil": "University of Edinburgh",
+        "cn": false
+      },
+      {
+        "t": "167: QURE: AI-Assisted and Automatically Verified UDF Inlini",
+        "affil": "Microsoft Research",
+        "cn": false
+      },
+      {
+        "t": "168: Finding Logic Bugs in Graph-processing Systems via Grap",
+        "affil": "The Chinese University of Hong Kong, Shenzhen",
+        "cn": true
+      },
+      {
+        "t": "169: Lossless Transformation of Knowledge Graphs to Property",
+        "affil": "Aalborg University Denmark",
+        "cn": false
+      },
+      {
+        "t": "170: Self-Enhancing Video Data Management System for Composi",
+        "affil": "University of Washington",
+        "cn": false
+      },
+      {
+        "t": "171: Efficient and Accurate Differentially Private Cardinali",
+        "affil": "Xi'an Jiaotong University",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Mahmoud Abo Khamis",
+        "affil": "LIRMM, Inria, University of Montpellier, CNRS",
+        "cn": false
+      },
+      {
+        "t": "Title: Fifty Years of Transaction Processing Research",
+        "affil": "such as ARIES",
+        "cn": false
+      },
+      {
+        "t": "Systems award",
+        "affil": "SIGMOD",
+        "cn": false
+      },
+      {
+        "t": "Time: Thursday, 26.06.2025, 10:30 - 11:30",
+        "affil": "incl. refreshments",
+        "cn": false
+      },
+      {
+        "t": "31: LeaFi: Data Series Indexes on Steroids with Learned Filt",
+        "affil": "Harvard University",
+        "cn": false
+      },
+      {
+        "t": "173: Efficient Indexing for Flexible Label-Constrained Short",
+        "affil": "Hong Kong University of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "174: How to Grow an LSM-tree: Towards Bridging The Gap Betwe",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "175: NEXT: A New Secondary Index Framework for LSM-based Dat",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "176: A New Paradigm in Tuning Learned Indexes: A Reinforceme",
+        "affil": "University of Cambridge",
+        "cn": false
+      },
+      {
+        "t": "177: BT-Tree: A Reinforcement Learning Based Index for Big T",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "178: B$\\circledS X$ : Subgraph Matching with Batch Backtrack",
+        "affil": "Fudan University",
+        "cn": true
+      },
+      {
+        "t": "179: Constant-time Connectivity Querying in Dynamic Graphs",
+        "affil": "University of Technology Sydney",
+        "cn": false
+      },
+      {
+        "t": "181: SBSC: A fast Self-tuned Bipartite proximity graph-based",
+        "affil": "PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur",
+        "cn": false
+      },
+      {
+        "t": "182: Subgroup Discovery with Small and Alternative Feature S",
+        "affil": "Karlsruhe Institute of Technology (KIT",
+        "cn": false
+      },
+      {
+        "t": "183: Graph-Based Vector Search: An Experimental Evaluation o",
+        "affil": "Mohammed VI Polytechnic University",
+        "cn": false
+      },
+      {
+        "t": "184: DEG: Efficient Hybrid Vector Search Using the Dynamic E",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "185: Subspace Collision: An Efficient and Accurate Framework",
+        "affil": "Institute of Computing Technology, Chinese Academy of Sciences",
+        "cn": true
+      },
+      {
+        "t": "186: iRangeGraph: Improvising Range-dedicated Graphs for Ran",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "187: MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Ap",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "188: Automated Validating and Fixing of Text-to-SQL Translat",
+        "affil": "Shanghai Jiao Tong University",
+        "cn": true
+      },
+      {
+        "t": "189: Reliable Text-to-SQL with Adaptive Abstention",
+        "affil": "university of Toronto",
+        "cn": false
+      },
+      {
+        "t": "190: SNAILS: Schema Naming Assessments for Improved LLM-Base",
+        "affil": "University of California, San Diego",
+        "cn": false
+      },
+      {
+        "t": "191: Hydro: Adaptive Query Processing of ML Queries",
+        "affil": "Georgia Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "192: Mitigating the Impedance Mismatch between Prediction Qu",
+        "affil": "East China Normal University",
+        "cn": true
+      },
+      {
+        "t": "193: How Good are Learned Cost Models, Really? Insights from",
+        "affil": "DFKI Darmstadt & TU Darmstadt",
+        "cn": false
+      },
+      {
+        "t": "194: Low Rank Learning for Offline Query Optimization",
+        "affil": "University of Pennsylvania",
+        "cn": false
+      },
+      {
+        "t": "195: Optimizing Block Skipping for High-Dimensional Data wit",
+        "affil": "University of Electronic Science and Technology of China",
+        "cn": true
+      },
+      {
+        "t": "196: SPACE: Cardinality Estimation for Path Queries Using Ca",
+        "affil": "University of Konstanz",
+        "cn": false
+      },
+      {
+        "t": "198: Community Detection in Heterogeneous Information Networ",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "199: Dual-Hierarchy Labelling: Scaling Up Distance Queries o",
+        "affil": "Australian National University",
+        "cn": false
+      },
+      {
+        "t": "200: Cohesiveness-aware Hierarchical Compressed Index for Co",
+        "affil": "Hangzhou Dianzi University",
+        "cn": true
+      },
+      {
+        "t": "201: Deep Overlapping Community Search via Subspace Embeddin",
+        "affil": "University of New South Wales",
+        "cn": false
+      },
+      {
+        "t": "202: A Lovász-Simonovits Theorem for Hypergraphs with Applic",
+        "affil": "Indian Institute of Technology Delhi",
+        "cn": false
+      },
+      {
+        "t": "203: CRDV: Conflict-free Replicated Data Views ?",
+        "affil": "INESCTEC & U. Minho",
+        "cn": false
+      },
+      {
+        "t": "204: Are database system researchers making correct assumpti",
+        "affil": "University of Maryland",
+        "cn": false
+      },
+      {
+        "t": "205: Low-Latency Transaction Scheduling via Userspace Interr",
+        "affil": "Simon Fraser University",
+        "cn": false
+      },
+      {
+        "t": "206: Moving on From Group Commit: Autonomous Commit Enables ",
+        "affil": "Technische Universität München",
+        "cn": false
+      },
+      {
+        "t": "207: Boosting OLTP Performance with Per-Page Logging on NVDI",
+        "affil": "Sungkyunkwan University",
+        "cn": false
+      },
+      {
+        "t": "208: SuSe: Summary Selection for Regular Expression Subseque",
+        "affil": "Humboldt-Universität zu Berlin",
+        "cn": false
+      },
+      {
+        "t": "209: Pandora: An Efficient and Rapid Solution for Persistenc",
+        "affil": "University of Edinburgh",
+        "cn": false
+      },
+      {
+        "t": "210: SwiftSpatial: Spatial Joins on Modern Hardware",
+        "affil": "ETH Zurich",
+        "cn": false
+      },
+      {
+        "t": "211: GOLAP: A GPU-in-Data-Path Architecture for High-Speed O",
+        "affil": "TU Darmstadt",
+        "cn": false
+      },
+      {
+        "t": "212: GPH: An Efficient and Effective Perfect Hashing Scheme ",
+        "affil": "Hong Kong Polytechnic University",
+        "cn": true
+      },
+      {
+        "t": "214: LpBound: Pessimistic Cardinality Estimation Using Lp-No",
+        "affil": "University of Zurich",
+        "cn": false
+      },
+      {
+        "t": "215: Towards a Converged Relational-Graph Optimization Frame",
+        "affil": "Alibaba Group",
+        "cn": true
+      },
+      {
+        "t": "216: Debunking the Myth of Join Ordering: Toward Robust SQL ",
+        "affil": "Tsinghua University",
+        "cn": true
+      },
+      {
+        "t": "217: Logical and Physical Optimizations for SQL Query Execut",
+        "affil": "UNIBAS",
+        "cn": false
+      },
+      {
+        "t": "218: Privacy and Accuracy-Aware AI/ML Model Deduplication",
+        "affil": "Arizona State University",
+        "cn": false
+      },
+      {
+        "t": "219: PoneglyphDB: Efficient Non-interactive Zero-Knowledge P",
+        "affil": "UC Irvine",
+        "cn": false
+      },
+      {
+        "t": "220: Computing Inconsistency Measures Under Differential Pri",
+        "affil": "University of Waterloo",
+        "cn": false
+      },
+      {
+        "t": "221: PrivRM: A Framework for Range Mean Estimation under Loc",
+        "affil": "The Hong Kong Polytechnic University",
+        "cn": true
+      },
+      {
+        "t": "222: Disclosure-compliant Query Answering",
+        "affil": "Technische Universität Berlin",
+        "cn": false
+      },
+      {
+        "t": "223: Near-Duplicate Sequence Alignment with One Permutation ",
+        "affil": "Rutgers University",
+        "cn": false
+      },
+      {
+        "t": "224: Enabling Adaptive Sampling for Intra-Window Join: Simul",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "225: Adaptive Quotient Filters",
+        "affil": "University of Maryland",
+        "cn": false
+      },
+      {
+        "t": "226: FAAQP: Fast and Accurate Approximate Query Processing b",
+        "affil": "Fudan University",
+        "cn": true
+      },
+      {
+        "t": "227: Approximating Opaque Top-k Queries",
+        "affil": "University of Rochester",
+        "cn": false
+      },
+      {
+        "t": "228: LSMGraph: A High-Performance Dynamic Graph Storage Syst",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "229: An experimental comparison of tree-data structures for ",
+        "affil": "University of Zürich",
+        "cn": false
+      },
+      {
+        "t": "230: TGraph: A Tensor-centric Graph Processing Framework",
+        "affil": "Wuhan University",
+        "cn": true
+      },
+      {
+        "t": "231: Efficient Index Maintenance for Effective Resistance Co",
+        "affil": "Beijing Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "232: Accelerating Core Decomposition in Billion-Scale Hyperg",
+        "affil": "The University of New South Wales",
+        "cn": false
+      },
+      {
+        "t": "233: GPU-Accelerated Graph Cleaning with a Single Machine",
+        "affil": "Southeast University",
+        "cn": false
+      },
+      {
+        "t": "234: The Best of Both Worlds: On Repairing Timestamps and At",
+        "affil": "Nankai university",
+        "cn": true
+      },
+      {
+        "t": "235: Table Overlap Estimation through Graph Embeddings",
+        "affil": "Hasso Plattner Institute",
+        "cn": false
+      },
+      {
+        "t": "236: Discovering Top-k Relevant and Diversified Rules",
+        "affil": "Univ. of Edinburgh ",
+        "cn": false
+      },
+      {
+        "t": "237: Provenance-Enabled Explainable AI",
+        "affil": "Alibaba Group",
+        "cn": true
+      },
+      {
+        "t": "238: Entity/Relationship Graphs",
+        "affil": "The University of Auckland",
+        "cn": false
+      },
+      {
+        "t": "239: Synthesizing Third Normal Form Schemata that Minimize I",
+        "affil": "The University of Auckland",
+        "cn": false
+      },
+      {
+        "t": "240: Physical Visualization Design: Decoupling Interface and",
+        "affil": "Columbia University",
+        "cn": false
+      },
+      {
+        "t": "241: Interactive Graph Search Made Simple",
+        "affil": "Hong Kong University of Science and Technology (Guangzhou",
+        "cn": true
+      },
+      {
+        "t": "242: SketchQL: Video Moment Querying with a Visual Query Int",
+        "affil": "Georgia Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "243: Intra-Query Runtime Elasticity for Cloud-Native Data An",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "244: Live Patching for Distributed In-Memory Key-Value Store",
+        "affil": "University of Passau",
+        "cn": false
+      },
+      {
+        "t": "245: SHIELD: Encrypting Persistent Data of LSM-KVS from Mono",
+        "affil": "Arizona State University",
+        "cn": false
+      },
+      {
+        "t": "246: ?-Tune: Harnessing Large Language Models for Automated ",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "247: Constant Optimization Driven Database System Testing",
+        "affil": "Nanjing University",
+        "cn": true
+      },
+      {
+        "t": "248: Capsule: an Out-of-Core Training Mechanism for Colossal",
+        "affil": "University of Science and Technology of China ",
+        "cn": true
+      },
+      {
+        "t": "249: CtxPipe: Context-aware Data Preparation Pipeline Constr",
+        "affil": "National University of Singapore",
+        "cn": false
+      },
+      {
+        "t": "250: Apt-Serve: Adaptive Request Scheduling on Hybrid Cache ",
+        "affil": "The Hong Kong University of Science and Technology",
+        "cn": true
+      },
+      {
+        "t": "251: LCP: Enhancing Scientific Data Management with Lossy Co",
+        "affil": "Florida State University",
+        "cn": false
+      },
+      {
+        "t": "252: Pasta: A Cost-Based Optimizer for Generating Pipelining",
+        "affil": "University of California, Irvine",
+        "cn": false
+      },
+      {
+        "t": "Location: Charlottenburg III",
+        "affil": "Microsoft",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Oliver Kennedy, Zhuoyue Zhao",
+        "affil": "Rutgers University",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Ashraf Aboulnaga, Riccardo Tommasini",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "Introducing RAW Hollow: An In-Memory Co-located, Compressed ",
+        "affil": "Netflix Inc",
+        "cn": false
+      },
+      {
+        "t": "Blink twice - automatic workload pinning and regression dete",
+        "affil": "Databricks",
+        "cn": false
+      },
+      {
+        "t": "Demonstrating MAST: An Efficient System for Point Cloud Data",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "VQLens: A Demonstration of Vector Query Execution Analysis",
+        "affil": "Southern University of Science and Technology",
+        "cn": false
+      },
+      {
+        "t": "anagodb: Offering Massive Parallelism for Database Engine",
+        "affil": "The University of Tokyo",
+        "cn": false
+      },
+      {
+        "t": "NebulaStream: An extensible, high-performance streaming engi",
+        "affil": "TU Berlin",
+        "cn": false
+      },
+      {
+        "t": "How DuckDB is USING KEY to Unlock Recursive Query Performanc",
+        "affil": "Universität Tübingen",
+        "cn": false
+      },
+      {
+        "t": "A Query-Aware Enormous Database Generator For System Perform",
+        "affil": "East China Normal University",
+        "cn": true
+      },
+      {
+        "t": "CORE+: A COmplex event Recognition Engine in C++",
+        "affil": "Oxford University",
+        "cn": false
+      },
+      {
+        "t": "UDFBench: A Tool for Benchmarking UDF Queries on SQL Engines",
+        "affil": "Athena Research Center",
+        "cn": false
+      },
+      {
+        "t": "ACE-in-Action: A Smart DBMS Bufferpool for SSDs",
+        "affil": "Boston University",
+        "cn": false
+      },
+      {
+        "t": "Alpha Demo: A Hardware-Accelerated Data Model for Ad-Hoc Man",
+        "affil": "University of Fribourg",
+        "cn": false
+      },
+      {
+        "t": "Automated Database Tuning vs. Human-based Tuning in a Simula",
+        "affil": "Carnegie Mellon University",
+        "cn": false
+      },
+      {
+        "t": "TEQ: An Open and Developer-friendly Testbed for Edge-based Q",
+        "affil": "Zhejiang University",
+        "cn": true
+      },
+      {
+        "t": "Demonstrating PDSP-Bench: A Benchmarking System for Parallel",
+        "affil": "TU Darmstadt",
+        "cn": false
+      },
+      {
+        "t": "TD-Join: Leveraging Temporal Dependencies in Time Series Joi",
+        "affil": "Lyon 1 University",
+        "cn": false
+      },
+      {
+        "t": "Demo of LearnedWMP: Workload Memory Prediction Using Deep Qu",
+        "affil": "York University ",
+        "cn": false
+      },
+      {
+        "t": "LingoDB-CT: Understanding LingoDB&rsquo,s Inner Workings",
+        "affil": "Technical University of Munich",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Brit Youngmann, Steven Whang",
+        "affil": "Southeast University",
+        "cn": false
+      },
+      {
+        "t": "Session chair: Anna Fariha",
+        "affil": "Columbia University",
+        "cn": false
+      },
+      {
+        "t": "Asynchronous Replication Strategies for a Real-Time DBMS -",
+        "affil": "Aerospike",
+        "cn": false
+      },
+      {
+        "t": "Streaming Democratized: Ease Across the Latency Spectrum wit",
+        "affil": "Snowflake",
+        "cn": false
+      },
+      {
+        "t": "Pruning in Snowflake: Working Smarter, Not Harder -",
+        "affil": "University of Technology Nuremberg",
+        "cn": false
+      },
+      {
+        "t": "AutoComp: Automated Data Compaction for Log-Structured Table",
+        "affil": "Microsoft",
+        "cn": false
+      },
+      {
+        "t": "Databricks Lakeguard: Supporting fine-grained access control",
+        "affil": "Databricks",
+        "cn": false
+      },
+      {
+        "t": "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Nat",
+        "affil": "Tencent",
+        "cn": true
+      },
+      {
+        "t": "Graphy'our Data: Towards End-to-End Modeling, Exploring and ",
+        "affil": "Alibaba Group",
+        "cn": true
+      },
+      {
+        "t": "KDSelector: A Knowledge-Enhanced and Data-Efficient Model Se",
+        "affil": "Harbin Institute of Technology",
+        "cn": true
+      },
+      {
+        "t": "PY-SHARQ: A Holistic Python Library for Explaining Associati",
+        "affil": "Bar-Ilan University",
+        "cn": false
+      },
+      {
+        "t": "CausalExplain: Causal Explanations of Black-box Models with ",
+        "affil": "University of Utah",
+        "cn": false
+      },
+      {
+        "t": "SeerCuts: Explainable Attribute Discretization",
+        "affil": "Massachusetts Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "Interactive Fairness Auditing: Leveraging AVOIR for Dynamic ",
+        "affil": "The Ohio State University",
+        "cn": false
+      },
+      {
+        "t": "Zorro: Quantifying Uncertainty in Models & Predictions Arisi",
+        "affil": "UCSD",
+        "cn": false
+      },
+      {
+        "t": "CauSumX: Summarized Causal Explanations For Group-By-Average",
+        "affil": "Technion",
+        "cn": false
+      },
+      {
+        "t": "Demonstration of DPClustX: Differentially Private Explanatio",
+        "affil": "Tel Aviv University",
+        "cn": false
+      },
+      {
+        "t": "Authenticating Multi-Chain Queries: Verifiable Virtual Files",
+        "affil": "Hong Kong Baptist University",
+        "cn": true
+      },
+      {
+        "t": "Demonstrating CEDAR: A System for Cost-Efficient Data-Driven",
+        "affil": "Cornell University",
+        "cn": false
+      },
+      {
+        "t": "A Fast Line Density Visualization Plugin for Geographic Info",
+        "affil": "Shenzhen University",
+        "cn": true
+      },
+      {
+        "t": "Virtualizing Cloud Data Infrastructures with BRAD",
+        "affil": "Massachusetts Institute of Technology",
+        "cn": false
+      },
+      {
+        "t": "SemExplorer: A User Interface for Semantic Approach to Custo",
+        "affil": "The Chinese University of Hong Kong, Shenzhen",
+        "cn": true
+      },
+      {
+        "t": "Mosaic: An Architecture for Linking Databases and Scalable I",
+        "affil": "University of Washington",
+        "cn": false
+      },
+      {
+        "t": "PASCAL: A Theory-Informed Visual Interface for Property Grap",
+        "affil": "Nanyang Technological University",
+        "cn": false
+      },
+      {
+        "t": "RelationalPatternVis: A Tool for Query Pattern Visualization",
+        "affil": "Northeastern University",
+        "cn": false
+      },
+      {
+        "t": "Session chairs: Tiemo Bang, Norman May",
+        "affil": "Renmin University of China",
+        "cn": true
+      },
+      {
+        "t": "Session chairs: Hazar Harmouch, Steven Whang",
+        "affil": "University of Science and Technology of China ",
+        "cn": true
+      },
+      {
+        "t": "Unified Lineage System: Tracking Data Provenance at Scale -",
+        "affil": "Meta Inc",
+        "cn": false
+      },
+      {
+        "t": "Unity Catalog: Open and Universal Governance for the Lakehou",
+        "affil": "Databricks",
+        "cn": false
+      },
+      {
+        "t": "Rel: A Programming Language for Relational Data -",
+        "affil": "RelationalAI",
+        "cn": false
+      },
+      {
+        "t": "JSON Relational Duality: A Revolutionary Combination of Docu",
+        "affil": "Oracle",
+        "cn": false
+      },
+      {
+        "t": "Scalable Execution of Application Logic within Everest Busin",
+        "affil": "Everest Systems",
+        "cn": false
+      },
+      {
+        "t": "Experimental Evaluation of Optimizing Memory Consumption in ",
+        "affil": "TU Dresden",
+        "cn": false
+      },
+      {
+        "t": "Michael Liut, University of Toronto Mississauga, Canada",
+        "affil": "GRADES",
+        "cn": false
+      },
+      {
+        "t": "Stefania Dumbrava, ENSIIE & Télécom SudParis, France",
+        "affil": "part 1",
+        "cn": false
+      },
+      {
+        "t": "Location: Köpenick I/II/III",
+        "affil": "Harvard University",
+        "cn": false
+      },
+      {
+        "t": "Location: Schöneberg I/II/III",
+        "affil": "University of Copenhagen",
+        "cn": false
+      }
+    ]
+  },
+  "VLDB program": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "VLDB research papers": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": [
+      {
+        "t": "title\tcategory\tauthors",
+        "affil": "Technical University of Munich (TUM",
+        "cn": false
+      }
+    ]
+  },
+  "ISCA program": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "ISCA home": {
+    "total": 7,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": [
+      {
+        "t": "Hironori Kasahara",
+        "affil": "University of Texas at Austin",
+        "cn": false
+      },
+      {
+        "t": "ISCA 2025 will be held at Waseda University, Shinjuku, Tokyo",
+        "affil": "ISCA",
+        "cn": false
+      },
+      {
+        "t": "\"Rethinking Prefetching for Intermittent Computing\" by Gan F",
+        "affil": "For Attendees",
+        "cn": false
+      },
+      {
+        "t": "We are actively exploring options to accommodate additional ",
+        "affil": "Sunday",
+        "cn": false
+      },
+      {
+        "t": "May 6, 2025",
+        "affil": "University of Texas at Austin",
+        "cn": false
+      },
+      {
+        "t": "April 7, 2025",
+        "affil": "May 22",
+        "cn": false
+      },
+      {
+        "t": "Please see here!",
+        "affil": "Deadline Extended",
+        "cn": false
+      }
+    ]
+  },
+  "SC 2024": {
+    "total": 6,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": [
+      {
+        "t": "9am - 12:30pm EST\tWorkshop",
+        "affil": "RESDIS",
+        "cn": false
+      },
+      {
+        "t": "2pm - 5:30pm EST\tWorkshop",
+        "affil": "ScalAH'24",
+        "cn": false
+      },
+      {
+        "t": "9am - 5:30pm EST\tWorkshop",
+        "affil": "WORKS24",
+        "cn": false
+      },
+      {
+        "t": "12:15pm - 1:15pm EST\tBirds of a Feather",
+        "affil": "EESSI",
+        "cn": false
+      },
+      {
+        "t": "5:15pm - 6:45pm EST\tBirds of a Feather",
+        "affil": "Energy",
+        "cn": false
+      },
+      {
+        "t": "8:30am - 12pm EST\tWorkshop",
+        "affil": "HPCSYSPROS24",
+        "cn": false
+      }
+    ]
+  },
+  "KDD accepted": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "KDD program": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "SIGIR program": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "SIGIR home": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": []
+  },
+  "LICS 2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0,
+    "papers": [
+      {
+        "t": "Fortieth Annual ACM/IEEE Symposium on",
+        "affil": "LICS",
+        "cn": false
+      }
+    ]
+  }
+}

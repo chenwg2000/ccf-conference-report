@@ -1,0 +1,5983 @@
+[
+  {
+    "name": "HPCA",
+    "year": 2025,
+    "total_dblp": 122,
+    "sample_size": 122,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 20,
+    "hit_pct": 16.4,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Yuzong Chen",
+        "id": "2411.11745",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiayi Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yujun Lin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zihan Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Muhammad Umar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Liang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jongmin Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ji Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Peng Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Debpratim Adak",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ashkan Asgharzadeh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Maryam Babaie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nathan Bleier",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuhui Cai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jingwei Cai",
+        "id": "2501.12634",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Oguzhan Canpolat",
+        "id": "2502.12650",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Odysseas Chatzopoulos",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jingji Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiquan Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liyan Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liao Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zixiao Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Minsik Cho",
+        "id": "2309.00964",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Insu Choi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianbo Dong",
+        "id": "2406.04594",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lieven Eeckhout",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mariam Elgamal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guang Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gan Fang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chao Fang",
+        "id": "2411.15982",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marjan Fariborz",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yihan Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Varun Gohil",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhen He",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Houshu He",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaehoon Heo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weiming Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yi Huang",
+        "id": "2504.15817",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Devrath Iyer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shinnung Jeong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Eunbi Jeong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siyao Jia",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianyang Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andreas Kosmas Kakolyris",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dongyun Kam",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alireza Khadem",
+        "id": "2501.09902",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyosang Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sungbin Kim",
+        "id": "2501.11211",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Takumi Kobori",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Apostolos Kokolis",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyojung Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaewon Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junseo Lee",
+        "id": "2502.17078",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiwon Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chaojian Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guoyu Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhiyao Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mengming Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dongkyun Lim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wan-Hsuan Lin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fangxin Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuhao Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jun Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lian Liu",
+        "id": "2502.16963",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Karl H. Mose",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Abubakr Nada",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ataberk Olgun",
+        "id": "2502.13075",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Subhankar Pal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiurui Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bo Ren Pao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yongmo Park",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gunho Park",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Moinuddin Qureshi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siddhartha Raman Sundara Raman",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pierre Ravenel",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jie Ren",
+        "id": "2511.08568",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joseph Rogers",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Seong Hoon Seo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anirudh Seshadri",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Changmin Shin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyojun Son",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jovan Stojkovic",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jovan Stojkovic",
+        "id": "2408.00741",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weiyi Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Raúl Taranco",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Arya Tschand",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yahya Can Tugrul",
+        "id": "2502.11745",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Georgios Vavouliotis",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joshua Viszlai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Craig R. Walters",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zishen Wan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yingjia Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haoran Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yueqi Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chiyue Wei",
+        "id": "2503.03379",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jeonghyun Woo",
+        "id": "2501.18861",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jeonghyun Woo",
+        "id": "2501.18857",
+        "affil": "𝑝, =, (",
+        "cn": false
+      },
+      {
+        "a": "Zhenyu Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qizhe Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Min Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xian Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Debin Xiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tongxin Xie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiaqi Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siling Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yinghao Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shuangyan Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhengbang Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhifan Ye",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haojie Ye",
+        "id": "2411.05400",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yaoguang Yong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziming Yuan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhifei Yue",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiaqi Zhai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jie Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhehua Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haoyang Zhang",
+        "id": "2501.10682",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenju Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xia Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liren Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kan Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "SC",
+    "year": 2024,
+    "total_dblp": 109,
+    "sample_size": 109,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 24,
+    "hit_pct": 22.0,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Hai Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Awais Khan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yankai Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yidong Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jinyang Liu",
+        "id": "2312.05492",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiwei Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nan Ding",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sameh Abdulah",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wei An",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Francesco Antici",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junya Arai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Cédric Augonnet",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wesley Brewer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Branden Butler",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Youguang Chen",
+        "id": "2409.07392",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Albert Cho",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiqin Dai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leonard Deuschle",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hariharan Devarajan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gautham Dharuman",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yinxiao Feng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guangnan Feng",
+        "id": "2408.07428",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Hao Feng",
+        "id": "2407.04272",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zane Fink",
+        "id": "2407.18352",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Rong Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiang Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anyesha Ghosh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anna Giannakou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jeremiah Giordani",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dongho Ha",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andreas Herten",
+        "id": "2408.17211",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuxi Hong",
+        "id": "2408.14558",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiajun Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yafan Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yafan Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "John Jacobson",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ankush Jain",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rutwik Jain",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hongwei Jin",
+        "id": "2407.17545",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuwei Jin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Manasa Kaniselvan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "George Karlos",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mikhail Khalilov",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Malgorzata Lazuka",
+        "id": "2410.02425",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Munkyu Lee",
+        "id": "2409.14447",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lingda Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianxiong Li",
+        "id": "2410.22867",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiajie Li",
+        "id": "2409.00876",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaoyan Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Luke Logan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hatem Ltaief",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chengzhi Lu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuechen Lu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jason Ludmir",
+        "id": "2409.04578",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Michael Mandulak",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aristotle X. Martin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Luke Marzen",
+        "id": "2406.13881",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mekena Metcalf",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Nichols",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Patrik Okanovic",
+        "id": "2408.11551",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhe Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zaifeng Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Theresa Pollinger",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kishore Punniyamurthy",
+        "id": "2305.06942",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhenbo Qiao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shi Qiu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haozhong Qiu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Isuru Ranawaka",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Donghyeon Ryu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryuichi Sai",
+        "id": "2408.03452",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryuichi Sai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kylee Santos",
+        "id": "2405.07898",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniele De Sensi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shikhar Shah",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Honghui Shang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siyuan Shen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Silver",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siddharth Singh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shubhendra Pal Singhal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Barry Sly-Delgado",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ana Luisa Veroneze Solórzano",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryan Stocks",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tim Niklas Uhl",
+        "id": "2404.05610",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marzio Vallero",
+        "id": "2407.10841",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daoce Wang",
+        "id": "2407.04267",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Tuowei Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiao Wang",
+        "id": "2404.14712",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weihu Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jing Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xun Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuanxin Wei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junlin Wei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xuan Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Du Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wentiao Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yaqi Xia",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mingkuan Xu",
+        "id": "2408.09055",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dong Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weicheng Xue",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zeyu Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaojian Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dechuang Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xin You",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hanfei Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Meng Zhang",
+        "id": "2407.14106",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Enzhi Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiwei Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zheng Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "ISCA",
+    "year": 2025,
+    "total_dblp": 136,
+    "sample_size": 136,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 17,
+    "hit_pct": 12.5,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Ryan Wong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhewen Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haris Volos",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chengyue Wang",
+        "id": "2411.17966",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haomin Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sunho Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Cong Guo",
+        "id": "2504.16339",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Minsu Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zihan Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianbo Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Feng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ning Kang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Meng Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vignesh Adhinarayanan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Russel Arbore",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pedro Henrique Exenberger Becker",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gwangeun Byeon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lingzhe Chester Cai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shiheng Cao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hanna Cha",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kangqi Chen",
+        "id": "2506.16444",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Feng Cheng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianyi Cheng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weiwei Chu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joel Coburn",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alhad Daftardar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siddharth Dangwal",
+        "id": "2503.20963",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dezun Dong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Renhao Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shengyu Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gan Fang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiang Fang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Amel Fatima",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dahu Feng",
+        "id": "2506.11446",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jingqi Feng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuan Feng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gelin Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Saber Ganjisaffar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Souradip Ghosh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Minseong Gil",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rhys Gretsch",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ali Hajiabadi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Seunghee Han",
+        "id": "2505.05893",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leo Han",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaochen Hao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Noureldin Hassan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryan Hou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiyang Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guyue Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yen-Chieh Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yeongwoo Jang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ipoom Jeong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenqi Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dian Jiao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dai Cheol Jung",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alireza Khadem",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Taehwan Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyungseok Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Heewoo Kim",
+        "id": "2505.08071",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyungyo Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaewon Kwon",
+        "id": "2505.18554",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaeyong Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yunjae Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yingheng Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuanlong Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ying Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiwei Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xintong Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Cong Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mengming Li",
+        "id": "2506.15985",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mao Lin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liang Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chaoqiang Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Changxi Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiantao Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiaqi Lou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rohan Mahapatra",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Satvik Maurya",
+        "id": "2506.10258",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Panagiotis Miliadis",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhiwen Mo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Seungjae Moon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Saba Mostofi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyoungwook Nam",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Arash Nasr-Esfahany",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "August Ning",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Seock-Hwan Noh",
+        "id": "2505.06504",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianwei Pan",
+        "id": "2509.10051",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haneul Park",
+        "id": "2506.11329",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Christopher A. Pattison",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Li Peng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Le Qin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Derrick Quinn",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Akshat Ramachandran",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Saeed Rashidi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joseph Rogers",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Michael Shen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yongwon Shin",
+        "id": "2412.19630",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ben Simner",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chang Eun Song",
+        "id": "2506.00020",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jovan Stojkovic",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wei Su",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hritvik Taneja",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chenning Tao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wuwei Tian",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Justin Ting",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yavuz Selim Tozlu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joshua Viszlai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Suhas Vittal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haiyu Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chiyue Wei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziyuan Wen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jian Weng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fabian Wildgrube",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jeonghyun Woo",
+        "id": "2505.10111",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chunshu Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zheng Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiaming Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Boxun Xu",
+        "id": "2505.12281",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiale Yan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiaqi Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qize Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xinyue Yi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xingmao Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yanpeng Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ismail Emir Yuksel",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junyao Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuanpeng Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Suquan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hezi Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hongrui Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chenggang Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xia Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hengyun Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuchen Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chenghong Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "HPDC",
+    "year": 2025,
+    "total_dblp": 53,
+    "sample_size": 53,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 5,
+    "hit_pct": 9.4,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Hena Ahmed",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "W. Jay Ashworth",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Candice Astier",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Viktorija Bezganovic",
+        "id": "2409.10231",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aditya Bhosale",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gregory Bolet",
+        "id": "2505.03988",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dagmar Bruß",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Beatrice Casey",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sungkyu Cheon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tainã Coleman",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tanish Desai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Arunavo Dey",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ke Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Simone Faro",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Simone Faro",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jesun Sahariar Firoz",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xuhang Gu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ning Gu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chang Guo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xinning Hui",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Arjun Kashyap",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sallar Khan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gabriel Laboy",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Youyuan Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Charalampos Mainas",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zackary Malkmus",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zoya Masih",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Michael McKinsey",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dolores Miao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhangqiang Ming",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ulrik De Muelenaere",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hamed Najafi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Juseong Park",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhen Peng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kunal Rao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vishal Rao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Davide Rucci",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Reem Shehayib",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mingyao Shen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ana Luisa Veroneze Solórzano",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Arnab Kanti Tarafder",
+        "id": "2411.01109",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Peipei Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nick Wanninger",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Frank Wanye",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zheng Wei",
+        "id": "2504.17598",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Li Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhuoxun Yang",
+        "id": "2502.04093",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mina Yousef",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sixing Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lyuheng Yuan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bohan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Robert W. Wisniewski",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "LICS",
+    "year": 2025,
+    "total_dblp": 67,
+    "sample_size": 67,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 32,
+    "hit_pct": 47.8,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Antonis Achilleos",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sam Adam-Day",
+        "id": "2504.14270",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pedro H. Azevedo de Amorim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Quentin Aristote",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Christel Baier",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "A. R. Balasubramanian",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Demian Banakh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Max Bannach",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Victoria Barrett",
+        "id": "2505.20009",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Gilles Barthe",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Thibaut Benjamin",
+        "id": "2501.11620",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Corentin Bodart",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mikolaj Bojanczyk",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Filippo Bonchi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Timothy Bourke",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nathan J. Bowler",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marius Bozga",
+        "id": "2408.01226",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Thomas Brihaye",
+        "id": "2505.09514",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Johanna Brunar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Benedict Bunting",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rutger Campbell",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mishel Carelli",
+        "id": "2505.10186",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anton Chernev",
+        "id": "2504.07013",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Pierre Clairambault",
+        "id": "2410.11389",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Lorenzo Clemente",
+        "id": "2503.21697",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liron Cohen",
+        "id": "2506.09458",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Anatole Dahan",
+        "id": "2505.15359",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Jan Dreier",
+        "id": "2305.02056",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Thomas Ehrhard",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marcelo Fiore",
+        "id": "2505.24812",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jonas Forster",
+        "id": "2411.03069",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Florian Frank",
+        "id": "2408.03658",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Jakub Gajarský",
+        "id": "2501.07558",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sergey Goncharov",
+        "id": "2502.01790",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Daniel Gratzer",
+        "id": "2501.13229",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Marta Grobelna",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jim de Groot",
+        "id": "2408.00262",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Roland Guttenberg",
+        "id": "2502.07660",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Petr Hlinený",
+        "id": "2501.18326",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mirai Ikebuchi",
+        "id": "2505.10149",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tom de Jong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Toghrul Karimov",
+        "id": "2403.06515",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Dominik Kirst",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Johannes Kloibhofer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mayuko Kori",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Louwe Kuijer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bert Lindenhovius",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Axel Ljungström",
+        "id": "2504.08664",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Christof Löding",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Paolo Marimon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Prince Mathew",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qiaolan Meng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Antoine Mottet",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Thomas Place",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andrei Popescu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wojciech Przybyszewski",
+        "id": "2505.16745",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leoni Pugh",
+        "id": "2504.06789",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Yousef Shakiba",
+        "id": "2505.13749",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andrew Slattery",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mikhail R. Starchak",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dario Stein",
+        "id": "2503.02477",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Sam M. Thompson",
+        "id": "2505.09772",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aleksei Tiurin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aymeric Walch",
+        "id": "2502.09066",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Niels van der Weide",
+        "id": "2411.06636",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "Paul Wild",
+        "id": "2502.00224",
+        "affil": "All fields, Title, Author",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "RTSS",
+    "year": 2024,
+    "total_dblp": 43,
+    "sample_size": 43,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 3,
+    "hit_pct": 7.0,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Zhe Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziming Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kunal Agrawal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tadeu Nogueira C. Andrade",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Bujosa",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hajin Byeon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Thomas Carroll",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qiang Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jintao Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhaomeng Deng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Abigail Eisenklam",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chuanchao Gao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joseph Goh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fei Guan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiapeng Guan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ivan Izhbirdeev",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aakriti Jain",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Maximilian Kirschner",
+        "id": "2410.10340",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xisheng Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qing Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liangkai Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mengyu Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yehan Ma",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Filip Markovic",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Geoffrey Nelissen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anh-Vu Nguyen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mohammad Pivezhandi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Philip Schowitz",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Soheil Shirvani",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Srinidhi Srinivasan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marion Sudvarg",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Connor Sullivan",
+        "id": "2410.14003",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lingyu Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shiqi Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Thilanka Thilakasiri",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yujie Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anlan Xie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuhang Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Atsushi Yano",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziliang Zhang",
+        "id": "2410.13084",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shuai Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Matteo Zini",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "VR",
+    "year": 2025,
+    "total_dblp": 76,
+    "sample_size": 76,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 6,
+    "hit_pct": 7.9,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Yuta Itoh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziming Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jingyi Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaehyeok Ahn",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sarker Monojit Asish",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Domenic Au",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Samantha Aziz",
+        "id": "2411.12766",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sara Baldoni",
+        "id": "2501.16326",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kristin A. Bartlett",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kabir Batra",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andrea Bellucci",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pierre Bondesan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Saeed Boorboor",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Riccardo Bovo",
+        "id": "2408.08158",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Larissa Brübach",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wei Cao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pauline W. Cha",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Woei-Chyi Chang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junlong Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaoming Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chao-Kuo Chiu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyunsung Cho",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jasmine Joyce DeGuzman",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Eckhoff",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hunter Finney",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mathurin Franck",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hikaru Fujita",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alexander Giovannelli",
+        "id": "2502.00880",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Paul Christopher Gloumeau",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zixuan Guo",
+        "id": "2503.15936",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shirin Hajahmadi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Helia Homami",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siyuan Hong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hamideh Hosseini-Toudeshky",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pei-Chin Hsu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xuning Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shaoteng Ke",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "ByungMin Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kirak Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryoya Komatsu",
+        "id": "2502.09899",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gaspard Laouenan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiasheng Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nianlong Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sizhuo Ma",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kumpei Ogawa",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leonardo Pavanatto",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leonardo Pavanatto",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tabitha C. Peck",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xi Peng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Voicu Popescu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Benjamin Thomas Powley",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gareth Rendle",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gareth Rendle",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Maha Sajid",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Muhammad Moiz Sakha",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hannah Schieber",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Elizabeth A. Schlesener",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sinan Sonlu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Danish Nisar Ahmed Tamboli",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bingyuan Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuhui Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xinkai Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jishang Wei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shaoyue Wen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Franziska Westermeier",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xuanhui Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenxuan Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianing Yin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jacob Young",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dayou Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yue Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sheng Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fengyuan Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tony Jan Zoeppig",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "IEEE VIS",
+    "year": 2024,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "UIST",
+    "year": 2024,
+    "total_dblp": 147,
+    "sample_size": 147,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 30,
+    "hit_pct": 20.4,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Yuhao Zhu",
+        "id": "2408.01895",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Florian Fischer",
+        "id": "2404.17695",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yoonho Lee",
+        "id": "2402.03715",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jason Wu",
+        "id": "2404.12500",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Susanne Schmidt",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haokun Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yue Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junyong Park",
+        "id": "2507.23215",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zining Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhihao Yao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaewook Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anindya Das Antar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Riku Arakawa",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Ashbrook",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jan Henry Belz",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jas Brooks",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ruei-Che Chang",
+        "id": "2408.06627",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liuqing Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liqi Cheng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyunsung Cho",
+        "id": "2409.00784",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyunsung Cho",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "John Joon Young Chung",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Johanna K. Didion",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mustafa Doga Dogan",
+        "id": "2404.13274",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Peitong Duan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haoxiang Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chia-An Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Martin Feick",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andreas Fender",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Unai Javier Fernández",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Raymond Fok",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Amrita Ganguly",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Peizhong Gao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Harrison Goldstein",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Johann Felipe Gonzalez",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Joshua Gorniak",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaime Gould",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aditya Gunturu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Felix Hähnlein",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Takeru Hashimoto",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rui He",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jaylin Herskovitz",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Megan Hofmann",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xincheng Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mina Huh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sosuke Ichihashi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tetsushi Ikeda",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Md. Touhidul Islam",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gaurav Jain",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nicholas Jennings",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yijing Jiang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Seongjun Kang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Majeed Kazemitabaar",
+        "id": "2407.02651",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nabin Khanal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Maruchi Kim",
+        "id": "2407.18141",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Munjeong Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yeonsu Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Clemens Nylandsted Klokmose",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andy Kong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Philippe Laban",
+        "id": "2309.15337",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mackenzie Leake",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sera Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Piyawat Lertvittayakumjorn",
+        "id": "2410.02264",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhipeng Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaolong Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Boyu Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xinshuang Liu",
+        "id": "2409.13347",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianjian Liu",
+        "id": "2407.18064",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Lu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qiuyu Lu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianren Luo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mathias N. Lystbæk",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dizhi Ma",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Devyani McLaren",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vimal Mollyn",
+        "id": "2509.01786",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ilan E. Moyer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nels Numan",
+        "id": "2409.13926",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yang Ouyang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mehmet Özdemir",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Akhil Padmanabha",
+        "id": "2404.04066",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Josh Pollock",
+        "id": "2307.00146",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wanli Qian",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Li Qiwei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shwetha Rajaram",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vinitha Ranganeni",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anyi Rao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aditya Retnanto",
+        "id": "2409.05203",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mark Richardson",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Karl Toby Rosenberg",
+        "id": "2401.05631",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sutirtha Roy",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vishnu Sarukkai",
+        "id": "2402.18116",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hyuna Seo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Soroush Shahi",
+        "id": "2402.08420",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shreya Shankar",
+        "id": "2404.12272",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ximing Shen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ludwig Sidenmark",
+        "id": "2408.04062",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yatharth Singhal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yunpeng Song",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Paul Streli",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xia Su",
+        "id": "2405.07089",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zezhou Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lingyun Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shunta Suzuki",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Akifumi Takahashi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryo Takahashi",
+        "id": "2411.13065",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaohang Tang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuan Tian",
+        "id": "2409.06178",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nhan (Nathan) Tran",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ching-Yi Tsai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hannah Twigg-Smith",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andreia Valente",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Minh Duc Vu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Anandghan Waghmare",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Uta Wagner",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jun Wang",
+        "id": "2404.06089",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guanyun Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alexander Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liang Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ratchanon Wattanaparinton",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Erwin Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Liwenhan Xie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shuchang Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zheer Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vasco Xu",
+        "id": "2504.12492",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ruyu Yan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Willa Yunqi Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryan Yen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryan Yen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jisu Yim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianhong Catherine Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel Campos Zamora",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hongbo Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Guanhua Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hechuan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ruowang Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lei Zhang",
+        "id": "2408.09382",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Li Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junyi Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chengbo Zheng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tongyu Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mingxu Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yunyi Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siyi Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lining Yao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "UbiComp",
+    "year": 2024,
+    "total_dblp": 208,
+    "sample_size": 208,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0,
+    "arxiv_found": 6,
+    "hit_pct": 2.9,
+    "sampled": false,
+    "papers": [
+      {
+        "a": "Heba Abdelnasser",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Daniel A. Adler",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nafees Ahmad",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leonardo Alchieri",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mohammed Aldeen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Atheer Aljeraisy",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sarah Andrew",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Riku Arakawa",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Swarnali Banik",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haoyu Bian",
+        "id": "2410.19279",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sizhen Bian",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marius Bock",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Marius Bock",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sudershan Boovaraghavan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Leah Buechley",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Youngjae Chang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhaoxin Chang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenqiang Chen",
+        "id": "2410.20034",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yatong Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenqiang Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qiongyan Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chunhua Chen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bhawana Chhaglani",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yang Chi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Eunsol Choi",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Matthew Clark",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mark Colley",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mark Colley",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Matthew Corbett",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Andrea Cuadra",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gaole Dai",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hanhui Deng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Veronika Domova",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vivian Dsouza",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lingyu Du",
+        "id": "2408.00950",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zachary Englhardt",
+        "id": "2311.13063",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yu Enokibori",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Long Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lihua Fan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yiwen Feng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Glenn Fernandes",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yongjian Fu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Vaibhav Ganatra",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weiwei Gao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yi Gao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yang Gao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kimberly García",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Christoph Gebhardt",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tan Gemicioglu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tan Gemicioglu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kaijie Gong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chitralekha Gupta",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Feiyu Han",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Feiyu Han",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yunjo Han",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhixiang He",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhiqing Hong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhiqing Hong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weiying Hou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Changshuo Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Changshuo Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhizhang Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qingyong Hu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zeyuan Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kunpeng Huang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Sungjin Hwang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nuwan Janaka",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dayoung Jeong",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianan Jiang",
+        "id": "2408.00855",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaoqing Jing",
+        "id": "2408.13505",
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Taewoo Jo",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Manasa Kalanadhabhatta",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Maryam Khalid",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yonchanok Khaokaew",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mohammad Kianpisheh",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Gwangbin Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Heather Jin Hee Kim",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Evan King",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Whitney-Jocelyn Kouaho",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nikola Kovacevic",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Christopher Kraemer",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Pin-Sung Ku",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ha Le",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jong Ho Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jarrett G. W. Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yonggeon Lee",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zikang Leng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Judith Ley-Flores",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ke Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianshi Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shuzhen Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenwei Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Siheng Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaochen Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jixin Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bofan Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qiyu Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yi Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chentao Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ruyi Li",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zimo Liao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Georgianna Lin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yong-Han Lin",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yue Ling",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kaiyan Ling",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chen Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Alan Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Runze Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chang Liu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Meagan B. Loerakker",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Aleksej Logacjov",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yue Lyu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Feng Lyu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Junqi Ma",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Saif Mahmud",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lakmal Meegahapola",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Luoyu Mei",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Luca-Maxim Meinhardt",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Luca-Maxim Meinhardt",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shenghuan Miao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ivonne Monarca",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tamanna Motahar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Subigya Nepal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Subigya Nepal",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ryota Ozaki",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yan Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chaoyi Pan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mingzhi Pang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Eunji Park",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Prasoon Patidar",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Francisco Perella-Holfeld",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tim Scargill",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Danny Scott",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Argha Sen",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Neil Kumar Shah",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fei Shang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Biyun Sheng",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shaikh Shawon Arefin Shimon",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenfan Song",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yingjian Song",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Annika Stampf",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Annika Stampf",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuchen Su",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yuqi Su",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yueyuan Sui",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ke Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tao Sun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Mahan Tabatabaie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Miguel A. Chávez Tapia",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Naoki Tateyama",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "M. L. Tlachac",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tram Thi Minh Tran",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Nicha Vanichvoranun",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dhruv Verma",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhu Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chongyang Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhu Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chixiang Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhi Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qi Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Fei Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yichao Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Haokun Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zeyu Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zi Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lei Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Shuning Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yufei Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Dequan Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jianyang Wang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Irmandy Wicaksono",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziyu Wu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Peng Xia",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kaijie Xiao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wentao Xie",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhaopeng Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhenyu Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xuhai Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziqi Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Chongzhi Xu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Bufang Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ziqi Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Baichen Yang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Tianhong Catherine Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Jiakun Yu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kuang Yuan",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Albin Zeqiri",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Wenhao Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhihan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Panyu Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Weibin Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qian Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Qian Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Baiqiao Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Zhan Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Lupeng Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiyuxing Zhang",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Cui Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Kaixing Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Langcheng Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Langcheng Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Xiaopeng Zhao",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Juntao Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Heng Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Hongyu Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Yexu Zhou",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Rongrong Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      },
+      {
+        "a": "Ran Zhu",
+        "id": null,
+        "affil": "",
+        "cn": false
+      }
+    ]
+  },
+  {
+    "name": "CHI",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "SIGMOD",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "VLDB",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "SIGIR",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "WWW",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "SIGKDD",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "NeurIPS",
+    "year": 2024,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "AAAI",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "ACL",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "CVPR",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "ICCV",
+    "year": 2023,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "ICML",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  },
+  {
+    "name": "ICLR",
+    "year": 2025,
+    "total_dblp": 0,
+    "cn_in_sample": 0,
+    "cn_pct": 0.0
+  }
+]

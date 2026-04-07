@@ -1,0 +1,86 @@
+{
+  "HPCA 2025": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "ISCA 2025": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SC 2024": {
+    "total": 19,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "RTSS 2024": {
+    "total": 38,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "HPDC 2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "LICS 2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "VR 2025": {
+    "total": 66,
+    "cn": 13,
+    "pct": 19.7
+  },
+  "IEEE VIS 2024": {
+    "total": 16,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "UIST 2024": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "VLDB 2025": {
+    "total": 1,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SIGIR 2025": {
+    "total": 2,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "SIGKDD 2025": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0.0
+  },
+  "WWW 2025": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0,
+    "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www2"
+  },
+  "UbiComp 2024": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0,
+    "error": "Page.goto: Navigation to \"https://www.ubicomp.org/ubicomp-is"
+  },
+  "CHI 2025": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0,
+    "error": "Page.goto: Navigation to \"https://programs.sigchi.org/chi/20"
+  },
+  "UIST 2024b": {
+    "total": 0,
+    "cn": 0,
+    "pct": 0,
+    "error": "Page.goto: Navigation to \"https://uist.acm.org/2024/accepted"
+  }
+}
